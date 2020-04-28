@@ -127,11 +127,11 @@ if(isset($_POST['submit'])){
 			<br>
 				<font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 4px gray; color:whitesmoke">
 					<form action="" method="post">
-						<label for="FirstName">FIRST NAME &emsp;</label>
+						FIRST NAME &emsp;
 						<input type="text" id="FirstName" placeholder="YOUR FIRST NAME" name="FirstName" required>
 
 						<br><br>
-						<label for="LastName">LAST NAME &emsp;</label>
+						LAST NAME &emsp;
 						<input type="text" id="LastName" placeholder="YOUR LAST NAME" name="LastName" required>
 
 <!--
@@ -153,11 +153,11 @@ if(isset($_POST['submit'])){
 						<br><br>
 						<label for="Tel.Number">TELEPHONE NUMBER &emsp;</label>
 						<input type="tel" id="Tel.Number" name="Tel.Number" placeholder="YOUR MOBILE NUMBER"  style="width: 12em" required>
--->
+
 						<br><br>
 						<label for="Email">EMAIL ADDRESS &emsp;</label>
 						<input type="Email" id="Email" name="Email" placeholder="YOUR EMAIL ADDRESS" style="width: 20em" required>
-<!--						
+						
 						<br><br>
 						<label>PROFESSION &emsp;</label>
 						
