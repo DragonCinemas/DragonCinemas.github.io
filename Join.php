@@ -177,7 +177,7 @@
 		<tr>
 			<td>
 				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 4px 2px 4px #000000">
-					<form action="mailto:madushanthmadu007@gmail.com" method="post" enctype="text/plain">
+					<form data-rel="external" action="mailto:madushanthmadu007@gmail.com" method="post" enctype="text/plain">
 						<label for="FirstName2">FIRST NAME &emsp;</label>
 						<input type="text" id="FirstName2" placeholder="YOUR FIRST NAME" name="FirstName" style="width: 20em" required>
 
@@ -217,11 +217,11 @@
 						<input type="radio" id="Studying2" name="Profession" value="Studying" required>
 						<label for="Studying2">STUDYING &emsp;</label>
 						
-						<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+						<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 						<input type="radio" id="Working2" name="Profession" value="Working" required>
 						<label for="Working2">WORKING &emsp;</label>
 						
-						<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+						<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 						<input type="radio" id="None2" name="Profession" value="None" required>
 						<label for="None2">NONE &emsp;</label>
 						
