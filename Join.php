@@ -1,3 +1,23 @@
+<?php 
+if(isset($_POST['submit'])){
+    $to = "madushanthmadu007@gmail.com"; // this is your Email address
+    $from = $_POST['Email']; // this is the sender's Email address
+    $first_name = $_POST['FirstName'];
+    $last_name = $_POST['LastName'];
+    $subject = "Form submission";
+    $subject2 = "Copy of your form submission";
+    $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'];
+    $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
+
+    $headers = "From:" . $from;
+    $headers2 = "From:" . $to;
+    mail($to,$subject,$message,$headers);
+    mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+    echo "Mail Sent. Thank you " . $first_name . ", we will contact you shortly.";
+    // You can also use header('Location: thank_you.php'); to redirect to another page.
+    }
+?>
+
 <!doctype html>
 <html>
 <head>
@@ -105,7 +125,7 @@
 			<td>
 			<br>
 				<font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 4px gray; color:whitesmoke">
-					<form action="mailto:madushanthmadu007@gmail.com" method="post" enctype="text/plain">
+					<form action="" method="post" enctype="text/plain">
 						<label for="FirstName">FIRST NAME &emsp;</label>
 						<input type="text" id="FirstName" placeholder="YOUR FIRST NAME" name="FirstName" required>
 
@@ -177,7 +197,7 @@
 		<tr>
 			<td>
 				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 4px 2px 4px #000000">
-					<form data-rel="external" action="mailto:madushanthmadu007@gmail.com" method="post" enctype="text/plain">
+					<form action="" method="post" enctype="text/plain">
 						<label for="FirstName2">FIRST NAME &emsp;</label>
 						<input type="text" id="FirstName2" placeholder="YOUR FIRST NAME" name="FirstName" style="width: 20em" required>
 
