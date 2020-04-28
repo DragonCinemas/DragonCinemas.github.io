@@ -1,14 +1,14 @@
 <?php 
-header("Access-Control-Allow-Origin:*")
+//header("Access-Control-Allow-Origin:*")
 if(isset($_POST['submit'])){
     $to = "madushanthmadu007@gmail.com"; // this is your Email address
-    $from = $_POST['Email']; // this is the sender's Email address
+//    $from = $_POST['Email']; // this is the sender's Email address
     $first_name = $_POST['FirstName'];
     $last_name = $_POST['LastName'];
-    $subject = "Form submission";
-    $subject2 = "Copy of your form submission";
-    $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'];
-    $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
+//    $subject = "Form submission";
+//    $subject2 = "Copy of your form submission";
+//    $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'];
+//    $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
 
     $headers = "From:" . $from;
     $headers2 = "From:" . $to;
@@ -126,7 +126,7 @@ if(isset($_POST['submit'])){
 			<td>
 			<br>
 				<font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 4px gray; color:whitesmoke">
-					<form action="" method="post" enctype="text/plain">
+					<form action="" method="post">
 						<label for="FirstName">FIRST NAME &emsp;</label>
 						<input type="text" id="FirstName" placeholder="YOUR FIRST NAME" name="FirstName" required>
 
@@ -134,6 +134,7 @@ if(isset($_POST['submit'])){
 						<label for="LastName">LAST NAME &emsp;</label>
 						<input type="text" id="LastName" placeholder="YOUR LAST NAME" name="LastName" required>
 
+<!--
 						<br><br>
 						<label for="DOB">DATE OF BIRTH &emsp;</label>
 						<input type="date" id="DOB" name="Date" style="width: 11em" required>
@@ -172,10 +173,11 @@ if(isset($_POST['submit'])){
 						<br><br>
 						<label for="Skills">SKILLS &emsp;</label>
 						<br><textarea id="Skills" name="Skills" placeholder="EG:- 1. STORY WRITTER	2. CRICKETER	3. ARTIST" style="width: 35em; height: 10em" required></textarea>
+-->
 
 						<br><br><br>
 						<center>
-							<input type="submit" value="SUBMIT">
+							<input type="submit" name="submit" id="submit" value="SUBMIT">
 							<input type="reset" value="RESET">
 						</center>
 						
@@ -193,7 +195,7 @@ if(isset($_POST['submit'])){
 			<u>JOIN WITH DRAGON CINEMAS</u>
 		</font>
 	</h1>
-
+<!--
 	<table align="center" id="G2" style="background-color: rgba(0, 0, 0, 0.4); width: 21em" cellpadding="15px">
 		<tr>
 			<td>
@@ -267,7 +269,7 @@ if(isset($_POST['submit'])){
 			</td>
 		</tr>
 	</table>
-	
+	-->
 	<br><br>
 	<hr color="#FFB600" size="6">
 	<hr color="#FF6E00" size="6">
