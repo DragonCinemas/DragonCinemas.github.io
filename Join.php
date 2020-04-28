@@ -2,7 +2,7 @@
 //header("Access-Control-Allow-Origin:*")
 if(isset($_POST['submit'])){
     $to = "madushanthmadu007@gmail.com"; // this is your Email address
-    $from = $_POST['Email']; // this is the sender's Email address
+    $from = "vijayrasigan467@gmail.com"; // this is the sender's Email address
     $first_name = $_POST['FirstName'];
     $last_name = $_POST['LastName'];
 //    $subject = "Form submission";
