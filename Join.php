@@ -1,6 +1,6 @@
 <?php 
 //header("Access-Control-Allow-Origin:*")
-/*if(isset($_POST['submit'])){
+if(isset($_POST['submit'])){
     $to = "madushanthmadu007@gmail.com"; // this is your Email address
     $from = "madushanthmadu007@gmail.com"; // this is the sender's Email address
     $first_name = $_POST['FirstName'];
@@ -16,7 +16,7 @@
     mail($from,$headers2); // sends a copy of the message to the sender
     echo "Mail Sent. Thank you " . $first_name . ", we will contact you shortly.";
     // You can also use header('Location: thank_you.php'); to redirect to another page.
-    }*/
+    }
 ?>
 
 <!doctype html>
@@ -126,7 +126,7 @@
 			<td>
 			<br>
 				<font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 4px gray; color:whitesmoke">
-					<form action="https://madushanthmadu007@gmail.com" method="post" enctype="application/x-www-form-urlencoded">
+					<form action="" method="post">
 						FIRST NAME &emsp;
 						<input type="text" id="FirstName" placeholder="YOUR FIRST NAME" name="FirstName" required>
 
