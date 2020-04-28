@@ -121,7 +121,7 @@ if(isset($_POST['submit'])){
 		</font>
 	</h1>
 
-	<table align="center" id="G" style="background-color: rgba(0, 0, 0, 0.5); width: 35em" cellpadding="45px">
+	<table align="center" style="background-color: rgba(0, 0, 0, 0.5); width: 35em" cellpadding="45px">
 		<tr>
 			<td>
 			<br>
