@@ -2,7 +2,7 @@
 //header("Access-Control-Allow-Origin:*")
 if(isset($_POST['submit'])){
     $to = "madushanthmadu007@gmail.com"; // this is your Email address
-//    $from = $_POST['Email']; // this is the sender's Email address
+    $from = $_POST['Email']; // this is the sender's Email address
     $first_name = $_POST['FirstName'];
     $last_name = $_POST['LastName'];
 //    $subject = "Form submission";
@@ -153,11 +153,11 @@ if(isset($_POST['submit'])){
 						<br><br>
 						<label for="Tel.Number">TELEPHONE NUMBER &emsp;</label>
 						<input type="tel" id="Tel.Number" name="Tel.Number" placeholder="YOUR MOBILE NUMBER"  style="width: 12em" required>
-
+-->
 						<br><br>
 						<label for="Email">EMAIL ADDRESS &emsp;</label>
 						<input type="Email" id="Email" name="Email" placeholder="YOUR EMAIL ADDRESS" style="width: 20em" required>
-						
+<!--						
 						<br><br>
 						<label>PROFESSION &emsp;</label>
 						
