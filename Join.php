@@ -17,35 +17,21 @@
     echo "Mail Sent. Thank you " . $first_name . ", we will contact you shortly.";
     // You can also use header('Location: thank_you.php'); to redirect to another page.
     }*/
-
-if(isset($_POST["submit"])){
-// Checking For Blank Fields..
-if($_POST["FirstName"]==""||$_POST["LastName"]==""||$_POST["Email"]==""){
-echo "Fill All Fields..";
-}else{
-// Check if the "Sender's Email" input field is filled out
-$email=$_POST['Email'];
-// Sanitize E-mail Address
-$email =filter_var($email, FILTER_SANITIZE_EMAIL);
-// Validate E-mail Address
-$email= filter_var($email, FILTER_VALIDATE_EMAIL);
-if (!$email){
-echo "Invalid Sender's Email";
-}
-else{
+if(isset($_POST['submit'])){
+$email = $_POST["Email"];
+$to = "madushanthmadu007@gmail.com";
 $subject = "DC_FORM";
-$message = $_POST['FirstName']. $_POST["LastName"]. $_POST["Email"];
-$headers = 'From:'. $email2 . "rn"; // Sender's Email
-$headers .= 'Cc:'. $email2 . "rn"; // Carbon copy to Sender
-// Message lines should not exceed 70 characters (PHP rule), so wrap it
-$message = wordwrap($message, 70);
-// Send Mail By PHP Mail Function
-mail("madushanthmadu007@gmail.com", $subject, $message, $headers);
-echo "Your mail has been sent successfuly ! Thank you for your feedback";
-}
-}
-}
+$headers = "From: $email\n";
+$message = "A visitor to your site has sent the following email address to be added to your mailing list.\n
 
+Email Address: $email";
+$user = "$email";
+$usersubject = "Thank You";
+$userheaders = "From: madushanthmadu007@gmail.com\n";
+$usermessage = "Thank you for subscribing to our mailing list.";
+mail($to,$subject,$message,$headers);
+mail($user,$usersubject,$usermessage,$userheaders);
+}
 ?>
 
 <!doctype html>
@@ -184,7 +170,7 @@ echo "Your mail has been sent successfuly ! Thank you for your feedback";
 						<input type="tel" id="Tel.Number" name="Tel.Number" placeholder="YOUR MOBILE NUMBER"  style="width: 12em" required>
 -->
 						<br><br>
-						<label for="Email">EMAIL ADDRESS &emsp;</label>
+						EMAIL ADDRESS &emsp;
 						<input type="Email" id="Email" name="Email" placeholder="YOUR EMAIL ADDRESS" style="width: 20em" required>
 <!--						
 						<br><br>

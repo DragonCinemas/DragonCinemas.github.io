@@ -111,7 +111,7 @@
 				<p>
 					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						07 MIN 13 SEC | MESSAGABLE CONVEY
-						<br>RATE : ___&emsp;&ensp;MAX.POINT : ___&emsp;&ensp;MIN.POINTS : ___
+						<br>RATE : ___ MAX.POINT : ___ MIN.POINTS : ___
 					</font></small>
 
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">

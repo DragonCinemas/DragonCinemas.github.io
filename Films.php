@@ -111,7 +111,7 @@
 				<p>
 					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						FRIENDSHIP | THRILL | WORKING GOING ON
-						<br>RATE : ___&emsp;MAX.POINT : ___&emsp;MIN.POINTS : ___
+						<br>RATE : ___ MAX.POINT : ___ MIN.POINTS : ___
 					</font></small>
 
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">

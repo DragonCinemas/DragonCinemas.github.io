@@ -111,7 +111,7 @@
 				<p>
 					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						18 MIN 35 SEC | CASUAL | PRACTISE
-						<br>RATE : ___&emsp;&ensp;MAX.POINT : ___&emsp;&ensp;MIN.POINTS : ___
+						<br>RATE : ___ MAX.POINT : ___ MIN.POINTS : ___
 					</font></small>
 
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
@@ -159,7 +159,7 @@
 				<p>
 					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
-						<br>RATE : ___&emsp;&ensp;MAX.POINT : ___&emsp;&ensp;MIN.POINTS : ___
+						<br>RATE : ___ MAX.POINT : ___ MIN.POINTS : ___
 					</font></small>
 
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
