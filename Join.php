@@ -1,6 +1,6 @@
 <?php 
 //header("Access-Control-Allow-Origin:*")
-if(isset($_POST['submit'])){
+/*if(isset($_POST['submit'])){
     $to = "madushanthmadu007@gmail.com"; // this is your Email address
     $from = "madushanthmadu007@gmail.com"; // this is the sender's Email address
     $first_name = $_POST['FirstName'];
@@ -16,7 +16,36 @@ if(isset($_POST['submit'])){
     mail($from,$headers2); // sends a copy of the message to the sender
     echo "Mail Sent. Thank you " . $first_name . ", we will contact you shortly.";
     // You can also use header('Location: thank_you.php'); to redirect to another page.
-    }
+    }*/
+
+if(isset($_POST["submit"])){
+// Checking For Blank Fields..
+if($_POST["FirstName"]==""||$_POST["LastName"]==""||$_POST["Email"]==""){
+echo "Fill All Fields..";
+}else{
+// Check if the "Sender's Email" input field is filled out
+$email=$_POST['Email'];
+// Sanitize E-mail Address
+$email =filter_var($email, FILTER_SANITIZE_EMAIL);
+// Validate E-mail Address
+$email= filter_var($email, FILTER_VALIDATE_EMAIL);
+if (!$email){
+echo "Invalid Sender's Email";
+}
+else{
+$subject = "DC_FORM";
+$message = $_POST['FirstName']. $_POST["LastName"]. $_POST["Email"];
+$headers = 'From:'. $email2 . "rn"; // Sender's Email
+$headers .= 'Cc:'. $email2 . "rn"; // Carbon copy to Sender
+// Message lines should not exceed 70 characters (PHP rule), so wrap it
+$message = wordwrap($message, 70);
+// Send Mail By PHP Mail Function
+mail("madushanthmadu007@gmail.com", $subject, $message, $headers);
+echo "Your mail has been sent successfuly ! Thank you for your feedback";
+}
+}
+}
+
 ?>
 
 <!doctype html>
@@ -153,11 +182,11 @@ if(isset($_POST['submit'])){
 						<br><br>
 						<label for="Tel.Number">TELEPHONE NUMBER &emsp;</label>
 						<input type="tel" id="Tel.Number" name="Tel.Number" placeholder="YOUR MOBILE NUMBER"  style="width: 12em" required>
-
+-->
 						<br><br>
 						<label for="Email">EMAIL ADDRESS &emsp;</label>
 						<input type="Email" id="Email" name="Email" placeholder="YOUR EMAIL ADDRESS" style="width: 20em" required>
-						
+<!--						
 						<br><br>
 						<label>PROFESSION &emsp;</label>
 						
