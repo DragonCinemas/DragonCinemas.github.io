@@ -1,45 +1,21 @@
 <?php 
-//header("Access-Control-Allow-Origin:*")
-/*if(isset($_POST['submit'])){
+if(isset($_POST['submit'])){
     $to = "madushanthmadu007@gmail.com"; // this is your Email address
-    $from = "madushanthmadu007@gmail.com"; // this is the sender's Email address
-    $first_name = $_POST['FirstName'];
-    $last_name = $_POST['LastName'];
-//    $subject = "Form submission";
-//    $subject2 = "Copy of your form submission";
-//    $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'];
-//    $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
+    $from = $_POST['email']; // this is the sender's Email address
+    $first_name = $_POST['first_name'];
+    $last_name = $_POST['last_name'];
+    $subject = "Form submission";
+    $subject2 = "Copy of your form submission";
+    $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'];
+    $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
 
     $headers = "From:" . $from;
     $headers2 = "From:" . $to;
-    mail($to,$headers);
-    mail($from,$headers2); // sends a copy of the message to the sender
+    mail($to,$subject,$message,$headers);
+    mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
     echo "Mail Sent. Thank you " . $first_name . ", we will contact you shortly.";
     // You can also use header('Location: thank_you.php'); to redirect to another page.
-    }*/
-/*if(isset($_POST['submit'])){
-	$email = $_POST["Email"];
-	$to = "madushanthmadu007@gmail.com";
-	$first_name = $_POST['FirstName'];
-	$last_name = $_POST['LastName'];
-	$subject = "DC_FORM";
-	$headers = "From: $email\n";
-	$message = "A visitor to your site has sent the following email address to be added to your mailing list.\n
-	Email Address: $email";
-	$user = "$email";
-	$usersubject = "Thank You";
-	$userheaders = "From: madushanthmadu007@gmail.com\n";
-	$usermessage = "Thank you for Joinning us.";
-	mail($to,$subject,$message,$headers,$first_name,$last_name);
-	mail($user,$usersubject,$usermessage,$userheaders);
-}*/
-if(isset($_POST['submit'])){
-	$to = "madushanthmadu007@gmail.com";
-	$from = $_POST['Email'];
-	$firstname = $_POST['FirstName'];
-	$lastname = $_POST['LastName'];
-	mail("$to","$from","$firstname","$lastname");
-}
+    }
 ?>
 
 <!doctype html>
@@ -144,7 +120,14 @@ if(isset($_POST['submit'])){
 		</font>
 	</h1>
 
-	<table align="center" style="background-color: rgba(0, 0, 0, 0.5); width: 35em" cellpadding="45px">
+	<form action="" method="post">
+		First Name: <input type="text" name="first_name"><br>
+		Last Name: <input type="text" name="last_name"><br>
+		Email: <input type="text" name="email"><br>
+		Message:<br><textarea rows="5" name="message" cols="30"></textarea><br>
+		<input type="submit" name="submit" value="Submit">
+	</form>
+<!--	<table align="center" style="background-color: rgba(0, 0, 0, 0.5); width: 35em" cellpadding="45px">
 		<tr>
 			<td>
 			<br>
@@ -157,7 +140,7 @@ if(isset($_POST['submit'])){
 						LAST NAME &emsp;
 						<input type="text" id="LastName" placeholder="YOUR LAST NAME" name="LastName" required>
 
-<!--
+
 						<br><br>
 						<label for="DOB">DATE OF BIRTH &emsp;</label>
 						<input type="date" id="DOB" name="Date" style="width: 11em" required>
@@ -176,11 +159,11 @@ if(isset($_POST['submit'])){
 						<br><br>
 						<label for="Tel.Number">TELEPHONE NUMBER &emsp;</label>
 						<input type="tel" id="Tel.Number" name="Tel.Number" placeholder="YOUR MOBILE NUMBER"  style="width: 12em" required>
--->
+
 						<br><br>
 						EMAIL ADDRESS &emsp;
 						<input type="Email" id="Email" name="Email" placeholder="YOUR EMAIL ADDRESS" style="width: 20em" required>
-<!--						
+						
 						<br><br>
 						<label>PROFESSION &emsp;</label>
 						
@@ -196,11 +179,11 @@ if(isset($_POST['submit'])){
 						<br><br>
 						<label for="Skills">SKILLS &emsp;</label>
 						<br><textarea id="Skills" name="Skills" placeholder="EG:- 1. STORY WRITTER	2. CRICKETER	3. ARTIST" style="width: 35em; height: 10em" required></textarea>
--->
+
 
 						<br><br><br>
 						<center>
-							<input name="submit" id="submit" value="SUBMIT">
+							<input type="submit" name="submit" value="SUBMIT">
 							<input type="reset" value="RESET">
 						</center>
 						
@@ -212,12 +195,12 @@ if(isset($_POST['submit'])){
 				</font>
 			</td>
 		</tr>
-	</table>
-	<h1 align="center" id="M2">
+	</table>-->
+	<!--<h1 align="center" id="M2">
 		<font face="Gabriola" size="+2" style="text-shadow: 1px 1px 12px black; color:orange">
 			<u>JOIN WITH DRAGON CINEMAS</u>
 		</font>
-	</h1>
+	</h1>-->
 <!--
 	<table align="center" id="G2" style="background-color: rgba(0, 0, 0, 0.4); width: 21em" cellpadding="15px">
 		<tr>
