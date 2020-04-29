@@ -18,19 +18,21 @@
     // You can also use header('Location: thank_you.php'); to redirect to another page.
     }*/
 if(isset($_POST['submit'])){
-$email = $_POST["Email"];
-$to = "madushanthmadu007@gmail.com";
-$subject = "DC_FORM";
-$headers = "From: $email\n";
-$message = "A visitor to your site has sent the following email address to be added to your mailing list.\n
+	$email = $_POST["Email"];
+	$to = "madushanthmadu007@gmail.com";
+	$first_name = $_POST['FirstName'];
+	$last_name = $_POST['LastName'];
+	$subject = "DC_FORM";
+	$headers = "From: $email\n";
+	$message = "A visitor to your site has sent the following email address to be added to your mailing list.\n
 
-Email Address: $email";
-$user = "$email";
-$usersubject = "Thank You";
-$userheaders = "From: madushanthmadu007@gmail.com\n";
-$usermessage = "Thank you for subscribing to our mailing list.";
-mail($to,$subject,$message,$headers);
-mail($user,$usersubject,$usermessage,$userheaders);
+	Email Address: $email";
+	$user = "$email";
+	$usersubject = "Thank You";
+	$userheaders = "From: madushanthmadu007@gmail.com\n";
+	$usermessage = "Thank you for subscribing to our mailing list.";
+	mail($to,$subject,$message,$headers,$first_name,$last_name);
+	mail($user,$usersubject,$usermessage,$userheaders);
 }
 ?>
 
