@@ -1,9 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 @media screen and (max-width:640px) {
-	/*body {
-		background-image: url(Images/Mob_BG.jpg);
-	}*/
 	#BG {
 		background-image: url(Images/Mob_BG.jpg);
 		position: absolute;
@@ -14,12 +11,6 @@
   		background-position: 3% 0%;
   		background-repeat: no-repeat;
 	}
-	
-	/*#DCLOGO {
-		background-image: url(Images/DCinemas-2_Mob.jpg);
-		width: 345px;
-		height: 140px;
-	}*/
 	
 	#DCLOGO {
 		display: none;
@@ -161,20 +152,6 @@
 }
 
 @media screen and (max-width:1920px) {
-	/*body {
-		background-image: url(Images/BG1.jpg);
-	}*/
-	
-	/*#DCLOGO {
-		width: 100%;
-		height: 100%;
-	}*/
-	
-	/*#DCLOGO2 {
-		width: 100%;
-		height: 100%;
-	}*/
-	
 	#YAAR {
 		max-width: 100%;
 		height: auto;
@@ -208,12 +185,6 @@
   		background-repeat: no-repeat;
 	}
 	
-	/*#DCLOGO {
-		background-image: url(Images/DCinemas-2.jpg);
-		width: 100%;
-		height: 100%;
-	}*/
-	
 	#DCLOGO2 {
 		display: none;
 	}
@@ -221,6 +192,22 @@
 	#DCLOGO {
 		width: 100%;
 		height: 100%;
+	}
+
+	#FILM01 {
+		display: none;
+	}
+	
+	#SHORTFILM01 {
+		display: none;
+	}
+	
+	#SHORTFILM02 {
+		display: none;
+	}
+	
+	#THEDAL001 {
+		display: none;
 	}
 	
 	#M2 {
@@ -407,10 +394,3 @@ button:hover {
 	text-decoration: none;
 	display: block;
 }
-
-/*.parallax {
-	background-attachment: fixed;
-  	background-position: center, bottom;
-  	background-repeat: no-repeat;
-  	background-size: cover;
-}*/

@@ -14,7 +14,7 @@
 	<hr color="#FFB600" size="6">
 	
 	<center>
-		<img src="Images/DCinemas-2.jpg" width="1315em" height="150em" id="DCLOGO" style="box-shadow: 10px 2px 12px #000000">
+		<img src="Images/DCinemas-02.jpg" width="100%" id="DCLOGO" style="box-shadow: 10px 2px 12px #000000">
 		<img src="Images/DCinemas-2_Mob.jpg" id="DCLOGO2" style="box-shadow: 10px 2px 12px #000000">
 	</center>
 	
@@ -32,28 +32,31 @@
 					<button class="navigationBtn">
 						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">CREATIONS</font>
 					</button>
+					
 					<div class="dropdown-content">
-						<button class="SUBbtn; Shadow" id="CREATIONS1">
-							<a href="Films.php">
+						<a href="Films.php">
+							<button class="SUBbtn; Shadow" id="CREATIONS1">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
 									FILMS
 								</font>
-							</a>
-						</button>
-						<button class="SUBbtn; Shadow" id="CREATIONS2">
-							<a href="Shortfilms.php">
+							</button>	
+						</a>
+
+						<a href="Shortfilms.php">
+							<button class="SUBbtn; Shadow" id="CREATIONS2">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
 									SHORTFILMS
 								</font>
-							</a>
-						</button>
-						<button class="SUBbtn; Shadow" id="CREATIONS3">
-							<a href="Thedal.php">
+							</button>
+						</a>
+
+						<a href="Thedal.php">
+							<button class="SUBbtn; Shadow" id="CREATIONS3">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
 									THEDAL
 								</font>
-							</a>
-						</button>
+							</button>
+						</a>
 					</div>
 				</div>
 			</td>
@@ -63,21 +66,23 @@
 					<button class="navigationBtn">
 						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">GROUP</font>
 					</button>
+
 					<div class="dropdown-content">
-						<button class="SUBbtn; Shadow" id="MEMBERS1">
-							<a href="Members.php">
+						<a href="Members.php">
+							<button class="SUBbtn; Shadow" id="MEMBERS1">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
 									MEMBERS
 								</font>
-							</a>
-						</button>
-						<button class="SUBbtn; Shadow" id="MEMBERS2">
-							<a href="Join.php">
+							</button>
+						</a>
+
+						<a href="Self_Works.php">
+							<button class="SUBbtn; Shadow" id="MEMBERS2">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
-									JOIN US
+									WORKS
 								</font>
-							</a>
-						</button>
+							</button>
+						</a>
 					</div>
 				</div>
 			</td>
@@ -99,9 +104,9 @@
 		<center><b><i><font face="Gabriola" style="text-shadow: 1px 1px 10px black; color:orange">--- SHORTFILMS ---</font></i></b></center>
 	</h1>
 	
-	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px">
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM1">
 		<tr>
-			<td id="SHORTFILM1">
+			<td>
 				<img src="Images/DIARY1.jpg" alt="Diary" width="350" height="200" style="box-shadow: 6px 2px 8px #000000" id="DIARY">
 			</td>
 				
@@ -111,35 +116,65 @@
 				<p>
 					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						18 MIN 35 SEC | CASUAL | PRACTISE
-						<br>RATE : ___ MAX.POINT : ___ MIN.POINTS : ___
+						<br>RATE : ___&emsp;&nbsp;MAX.POINT : ___&emsp;&nbsp;MIN.POINTS : ___
 					</font></small>
 
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
 						<br><br>It's a short film producing by DRAGON CINEMAS. This was made for practise for our next big&nbsp; &nbsp;<br>creations. And it's a trial for our future.
 						
 						<br><br>Director : 
-						<a href="Members.php#M" class="aLink" id="M">MADUSHANTH</a>
-						<a href="Members.php#M2" class="aLink" id="M2">MADUSHANTH</a> ,
-						<a href="Members.php#G" class="aLink" id="G">GOWSALJAN</a>
-						<a href="Members.php#G2" class="aLink" id="G2">GOWSALJAN</a> ,
-						<a href="Members.php#SS" class="aLink" id="SS">SRI SATHIYAN</a>
-						<a href="Members.php#SS2" class="aLink" id="SS2">SRI SATHIYAN</a>
+						<a href="Members.php#M" class="aLink">MADUSHANTH</a> ,
+						<a href="Members.php#G" class="aLink">GOWSALJAN</a> ,
+						<a href="Members.php#SS" class="aLink">SRI SATHIYAN</a>
 						<br>Stars : 
-						<a href="Members.php#D" class="aLink" id="D">DHANUSH</a>
-						<a href="Members.php#D2" class="aLink" id="D2">DHANUSH</a> ,
-						<a href="Members.php#SR" class="aLink" id="SR">SAM ROHAN</a>
-						<a href="Members.php#SR2" class="aLink" id="SR2">SAM ROHAN</a> ,
-						<a href="Members.php#R" class="aLink" id="R">ROHIT</a>
-						<a href="Members.php#R2" class="aLink" id="R2">ROHIT</a> ,
-						<a href="Members.php#G" class="aLink" id="g">GOWSALJAN</a>
-						<a href="Members.php#G2" class="aLink" id="g2">GOWSALJAN</a> ,
-						<a href="Members.php#JJ" class="aLink" id="JJ">JOHNSAN JEEWA</a>
-						<a href="Members.php#JJ2" class="aLink" id="JJ2">JOHNSAN JEEWA</a> ,
-						<br><a href="Members.php#SS" class="aLink" id="ss">SRI SATHIYAN</a>
-						<a href="Members.php#SS2" class="aLink" id="ss2">SRI SATHIYAN</a> ,
+						<a href="Members.php#D" class="aLink">DHANUSH</a> ,
+						<a href="Members.php#SR" class="aLink">SAM ROHAN</a> ,
+						<a href="Members.php#R" class="aLink">ROHIT</a> ,
+						<a href="Members.php#G" class="aLink">GOWSALJAN</a> ,
+						<a href="Members.php#JJ" class="aLink">JOHNSAN JEEWA</a> ,
+						<br><a href="Members.php#SS" class="aLink">SRI SATHIYAN</a> ,
 						<a class="aLink">GOWTHAMAN</a>
 						
-						<br><br><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1"><a href="DIARY.php" class="aLink">Read More</a></font></i></b></button>
+						<br><br><a href="DIARY.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+					</font>
+				</p>
+			</td>
+		</tr>
+	</table>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM01">
+		<tr>
+			<td align="center">
+				<h2><font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >01 - DIARY - THE FIND OUT (2020)</font></h2>
+				
+				<img src="Images/DIARY1.jpg" alt="Diary" width="200" height="100" style="box-shadow: 6px 2px 8px #000000" id="DIARY">
+			</td>
+		</tr>
+		
+		<tr>		
+			<td align="center">
+				<p>
+					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						18 MIN 35 SEC | CASUAL | PRACTISE
+						<br>RATE : ___<br>MAX.POINT : ___<br>MIN.POINTS : ___
+					</font></small>
+
+					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+						<br><br>It's a short film producing by DRAGON CINEMAS. This was made for practise for our next big creations. And it's a trial for our future.
+						
+						<br><br>Director : 
+						<a href="Members.php#M2" class="aLink">MADUSHANTH</a> ,
+						<a href="Members.php#G2" class="aLink">GOWSALJAN</a> ,
+						<a href="Members.php#SS2" class="aLink">SRI SATHIYAN</a>
+						<br>Stars : 
+						<a href="Members.php#D2" class="aLink">DHANUSH</a> ,
+						<a href="Members.php#SR2" class="aLink">SAM ROHAN</a> ,
+						<a href="Members.php#R2" class="aLink">ROHIT</a> ,
+						<a href="Members.php#G2" class="aLink">GOWSALJAN</a> ,
+						<a href="Members.php#JJ2" class="aLink">JOHNSAN JEEWA</a> ,
+						<br><a href="Members.php#SS2" class="aLink">SRI SATHIYAN</a> ,
+						<a class="aLink">GOWTHAMAN</a>
+						
+						<br><br><a href="DIARY.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
 					</font>
 				</p>
 			</td>
@@ -147,9 +182,9 @@
 	</table>
 	
 	<br>
-	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px">
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM2">
 		<tr>
-			<td id="SHORTFILM2">
+			<td>
 				<img src="Images/PY1.jpg" alt="Puriyaa Irul" width="350" height="200" style="box-shadow: 6px 2px 8px #000000" id="PY">
 			</td>
 				
@@ -159,25 +194,55 @@
 				<p>
 					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
-						<br>RATE : ___ MAX.POINT : ___ MIN.POINTS : ___
+						<br>RATE : ___&emsp;&nbsp;MAX.POINT : ___&emsp;&nbsp;MIN.POINTS : ___
 					</font></small>
 
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
 						<br><br>It's a short film producing by DRAGON CINEMAS &amp; M CREATIONS. This was made for test&nbsp; <br>our friends' (ALL SUBSCRIBERS) brain level thier own-self.
 						
 						<br><br>Director : 
-						<a href="Members.php#M" class="aLink" id="m">MADUSHANTH</a>
-						<a href="Members.php#M2" class="aLink" id="m2">MADUSHANTH</a>
+						<a href="Members.php#M" class="aLink">MADUSHANTH</a>
 						<br>Music Director : 
-						<a href="Members.php#JJ" class="aLink" id="jj">JOHNSAN JEEWA</a>
-						<a href="Members.php#JJ2" class="aLink" id="jj2">JOHNSAN JEEWA</a>
+						<a href="Members.php#JJ" class="aLink">JOHNSAN JEEWA</a>
 						<br>Stars : 
-						<a href="Members.php#S" class="aLink" id="s">SANJAY</a>
-						<a href="Members.php#S2" class="aLink" id="s2">SANJAY</a> ,
-						<a href="Members.php#G" class="aLink" id="g3">GOWSALJAN</a>
-						<a href="Members.php#G2" class="aLink" id="g4">GOWSALJAN</a>
+						<a href="Members.php#S" class="aLink">SANJAY</a> ,
+						<a href="Members.php#G" class="aLink">GOWSALJAN</a>
 						
-						<br><br><button><b><i><font  style="text-shadow: 1px 1px 5px brown" size="+1"><a href="PURIYAA_IRUL.php" class="aLink">Read More</a></font></i></b></button>
+						<br><br><a href="PURIYAA_IRUL.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+					</font>
+				</p>
+			</td>
+		</tr>
+	</table>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM02">
+		<tr>
+			<td align="center">
+				<h2><font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >02 - PURIYAA IRUL (2020)</font></h2>
+				
+				<img src="Images/PY1.jpg" alt="Puriyaa Irul" width="200" height="100" style="box-shadow: 6px 2px 8px #000000" id="PY">
+			</td>
+		</tr>
+		
+		<tr>		
+			<td align="center">
+				<p>
+					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
+						<br>RATE : ___<br>MAX.POINT : ___<br>MIN.POINTS : ___
+					</font></small>
+
+					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+						<br><br>It's a short film producing by DRAGON CINEMAS &amp; M CREATIONS. This was made for test our friends' (ALL SUBSCRIBERS) brain level thier own-self.
+						
+						<br><br>Director : 
+						<a href="Members.php#M2" class="aLink">MADUSHANTH</a>
+						<br>Music Director : 
+						<a href="Members.php#JJ2" class="aLink">JOHNSAN JEEWA</a>
+						<br>Stars : 
+						<a href="Members.php#S2" class="aLink">SANJAY</a> ,
+						<a href="Members.php#G2" class="aLink">GOWSALJAN</a>
+						
+						<br><br><a href="PURIYAA_IRUL.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
 					</font>
 				</p>
 			</td>

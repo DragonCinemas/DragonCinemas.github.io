@@ -14,7 +14,7 @@
 	<hr color="#FFB600" size="6">
 	
 	<center>
-		<img src="Images/DCinemas-2.jpg" width="1315em" height="150em" id="DCLOGO" style="box-shadow: 10px 2px 12px #000000">
+		<img src="Images/DCinemas-02.jpg" width="100%" id="DCLOGO" style="box-shadow: 10px 2px 12px #000000">
 		<img src="Images/DCinemas-2_Mob.jpg" id="DCLOGO2" style="box-shadow: 10px 2px 12px #000000">
 	</center>
 	
@@ -32,28 +32,31 @@
 					<button class="navigationBtn">
 						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">CREATIONS</font>
 					</button>
+					
 					<div class="dropdown-content">
-						<button class="SUBbtn; Shadow" id="CREATIONS1">
-							<a href="Films.php">
+						<a href="Films.php">
+							<button class="SUBbtn; Shadow" id="CREATIONS1">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
 									FILMS
 								</font>
-							</a>
-						</button>
-						<button class="SUBbtn; Shadow" id="CREATIONS2">
-							<a href="Shortfilms.php">
+							</button>	
+						</a>
+
+						<a href="Shortfilms.php">
+							<button class="SUBbtn; Shadow" id="CREATIONS2">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
 									SHORTFILMS
 								</font>
-							</a>
-						</button>
-						<button class="SUBbtn; Shadow" id="CREATIONS3">
-							<a href="Thedal.php">
+							</button>
+						</a>
+
+						<a href="Thedal.php">
+							<button class="SUBbtn; Shadow" id="CREATIONS3">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
 									THEDAL
 								</font>
-							</a>
-						</button>
+							</button>
+						</a>
 					</div>
 				</div>
 			</td>
@@ -63,21 +66,23 @@
 					<button class="navigationBtn">
 						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">GROUP</font>
 					</button>
+
 					<div class="dropdown-content">
-						<button class="SUBbtn; Shadow" id="MEMBERS1">
-							<a href="Members.php">
+						<a href="Members.php">
+							<button class="SUBbtn; Shadow" id="MEMBERS1">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
 									MEMBERS
 								</font>
-							</a>
-						</button>
-						<button class="SUBbtn; Shadow" id="MEMBERS2">
-							<a href="Join.php">
+							</button>
+						</a>
+
+						<a href="Self_Works.php">
+							<button class="SUBbtn; Shadow" id="MEMBERS2">
 								<font face="Britamic" color="#FFFFFF" class="Shadow">
-									JOIN US
+									WORKS
 								</font>
-							</a>
-						</button>
+							</button>
+						</a>
 					</div>
 				</div>
 			</td>
@@ -190,11 +195,13 @@
 						<a href="https://www.youtube.com/watch?v=OW4KGWADzPk" class="aLink">https://www.youtube.com/watch?v=OW4KGWADzPk</a>
 						
 						<br><br>
-						<button>
-							<font style="text-shadow: 1px 1px 5px brown" size="+2">
-								<a class="aLink">SCRIPT IS AVAILABLE NOW</a>
-							</font>
-						</button>
+						<form method="get" onClick="window.open('Scripts/PuriyaaIrul_Script.pdf')">
+							<button type="submit">
+								<font size="+2" style="text-shadow: 1px 1px 5px brown" class="aLink">
+									SCRIPT IS AVAILABLE NOW
+								</font>
+							</button>
+						</form>
 						
 						<br><br>Writter , Director : 
 						<a href="Members.php#M2" class="aLink">MADUSHANTH</a>
