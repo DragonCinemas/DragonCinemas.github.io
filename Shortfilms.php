@@ -135,7 +135,7 @@
 						<br><a href="Members.php#SS" class="aLink">SRI SATHIYAN</a> ,
 						<a class="aLink">GOWTHAMAN</a>
 						
-						<br><br><a href="DIARY.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+						<br><br><a href="DIARY.php" class="aLink"><button><b><i><font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
 					</font>
 				</p>
 			</td>
@@ -174,7 +174,7 @@
 						<br><a href="Members.php#SS2" class="aLink">SRI SATHIYAN</a> ,
 						<a class="aLink">GOWTHAMAN</a>
 						
-						<br><br><a href="DIARY.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+						<br><br><a href="DIARY.php" class="aLink"><button><b><i><font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
 					</font>
 				</p>
 			</td>
@@ -208,7 +208,7 @@
 						<a href="Members.php#S" class="aLink">SANJAY</a> ,
 						<a href="Members.php#G" class="aLink">GOWSALJAN</a>
 						
-						<br><br><a href="PURIYAA_IRUL.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+						<br><br><a href="PURIYAA_IRUL.php" class="aLink"><button><b><i><font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
 					</font>
 				</p>
 			</td>
@@ -242,7 +242,7 @@
 						<a href="Members.php#S2" class="aLink">SANJAY</a> ,
 						<a href="Members.php#G2" class="aLink">GOWSALJAN</a>
 						
-						<br><br><a href="PURIYAA_IRUL.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+						<br><br><a href="PURIYAA_IRUL.php" class="aLink"><button><b><i><font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
 					</font>
 				</p>
 			</td>

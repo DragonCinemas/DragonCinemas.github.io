@@ -138,7 +138,14 @@
 						<a href="Members.php#I" class="aLink">IDHAYARUBAN</a> ,
 						<a href="Members.php#M" class="aLink">MADUSHANTH</a>
 						
-						<br><br><a href="YAAR.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+						<br><br>
+						<a href="YAAR.php" class="aLink">
+							<button><b><i>
+								<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+									Read More
+								</font>
+							</i></b></button>
+						</a>
 					</font>
 				</p>
 			</td>
@@ -181,7 +188,14 @@
 						<a href="Members.php#I2" class="aLink">IDHAYARUBAN</a> ,
 						<a href="Members.php#M2" class="aLink">MADUSHANTH</a>
 						
-						<br><br><a href="YAAR.php" class="aLink"><button><b><i><font style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+						<br><br>
+						<a href="YAAR.php" class="aLink">
+							<button><b><i>
+								<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+									Read More
+								</font>
+							</i></b></button>
+						</a>
 					</font>
 				</p>
 			</td>

@@ -135,7 +135,7 @@
 						<br><br>
 						<form method="get" onClick="window.open('Scripts/DiaryScript.pdf')">
 							<button type="submit">
-								<font size="+2" style="text-shadow: 1px 1px 5px brown" class="aLink">SCRIPT IS AVAILABLE NOW</font>
+								<font color="gold" size="+2" style="text-shadow: 1px 1px 5px brown" class="aLink">SCRIPT IS AVAILABLE NOW</font>
 							</button>
 						</form>
 
@@ -206,7 +206,7 @@
 						<br><br>
 						<form method="get" onClick="window.open('Scripts/DiaryScript.pdf')">
 							<button type="submit">
-								<font size="+2" style="text-shadow: 1px 1px 5px brown" class="aLink">SCRIPT IS AVAILABLE NOW</font>
+								<font color="gold" size="+2" style="text-shadow: 1px 1px 5px brown" class="aLink">SCRIPT IS AVAILABLE NOW</font>
 							</button>
 						</form>
 

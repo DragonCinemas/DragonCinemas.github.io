@@ -131,7 +131,7 @@
 						<br><br>
 						<a href="http://youtu.be/6TMM1JF57y8" class="aLink">
 							<button><b><i>
-								<font style="text-shadow: 1px 1px 5px brown" size="+1">
+								<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
 									WATCH THIS VIDEO
 								</font>
 							</i></b></button>
@@ -169,7 +169,7 @@
 						<br><br>
 						<a href="http://youtu.be/6TMM1JF57y8" class="aLink">
 							<button><b><i>
-								<font style="text-shadow: 1px 1px 5px brown" size="+1">
+								<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
 									WATCH THIS VIDEO
 								</font>
 							</i></b></button>

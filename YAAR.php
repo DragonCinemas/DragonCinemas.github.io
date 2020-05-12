@@ -133,7 +133,7 @@
 
 						<br><br>
 						<button>
-							<font size="+2" style="text-shadow: 1px 1px 5px brown" class="aLink">
+							<font color="gold" size="+2" style="text-shadow: 1px 1px 5px brown" class="aLink">
 								SCRIPT ISN'T AVAILABLE NOW
 							</font>
 						</button>
@@ -205,7 +205,7 @@
 
 						<br><br>
 						<button>
-							<font style="text-shadow: 1px 1px 5px brown" size="+2">
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+2">
 								<a class="aLink">
 									SCRIPT ISN'T AVAILABLE NOW
 								</a>
