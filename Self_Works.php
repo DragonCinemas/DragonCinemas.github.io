@@ -131,6 +131,7 @@
                         <li>STUNTS</li>
                     </ul>
 				</font>
+				<br><br><br>
 			</td>
 
 			<td>
@@ -145,6 +146,7 @@
                         <li>STUNTS</li>
 					</ul>
 				</font>
+				<br><br>
 			</td>
 
 			<td>
@@ -165,7 +167,7 @@
 
 			<td>
                 <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
-					<h3>THEDAL</h3>
+					<h3>THEDAL 01</h3>
 					<ul style="list-style-type:disc">
 						<li>DETAILS COLLECTER</li>
 						<li>PHOTOGRAPHER</li>
@@ -173,6 +175,7 @@
                         <li>VOICE ACTOR</li>
                     </ul>
 				</font>
+				<br><br><br><br>
 			</td>
 		</tr>
 
@@ -199,9 +202,10 @@
 						<li>THIGILPPAYANAM</li>
 						<li>YAAR</li>
 						<li>PURIYAA IRUL</li>
-						<li>JK</li>
+						<li>JK CHAPTERS</li>
                     </ul>
 				</font>
+				<br><br>
 			</td>
 
 			<td>
@@ -215,6 +219,7 @@
 						<li>UNAITHEDUM</li>
                     </ul>
 				</font>
+				<br>
 			</td>
 
 			<td>
@@ -239,7 +244,7 @@
 	</table>
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="M2">
 		<tr align="center">
-            <td colspan = "4">
+            <td colspan>
                 <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
@@ -286,7 +291,7 @@
                         <li>ACTOR</li>
 					</ul>
 
-					<h3>THEDAL</h3>
+					<h3>THEDAL 01</h3>
 					<ul style="list-style-type:disc">
 						<li>DETAILS COLLECTER</li>
 						<li>PHOTOGRAPHER</li>
@@ -317,7 +322,7 @@
 						<li>THIGILPPAYANAM</li>
 						<li>YAAR</li>
 						<li>PURIYAA IRUL</li>
-						<li>JK</li>
+						<li>JK CHAPTERS</li>
                     </ul>
 
 					<h3>LYRICS</h3>
@@ -387,6 +392,7 @@
                         <li>ACTOR</li>
 					</ul>
 				</font>
+				<br><br>
 			</td>
 
 			<td>
@@ -396,15 +402,17 @@
                         <li>PRODUCER</li>
 					</ul>
 				</font>
+				<br><br><br><br>
 			</td>
 
 			<td>
                 <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
-					<h3>THEDAL</h3>
+					<h3>THEDAL 01</h3>
 					<ul style="list-style-type:disc">
 						<li>DETAILS CHECKER</li>
                     </ul>
 				</font>
+				<br><br><br>
 			</td>
 		</tr>
 
@@ -413,12 +421,10 @@
 				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
-						<li>VGJAN VISUALS LOGO</li>
-						<li>EXTRA
-							<dd>???</dd>
-						</li>
+						<li>VGJAN VISUALS FACTORY LOGO</li>
                     </ul>
 				</font>
+				<br><br><br><br><br><br>
 			</td>
 
 			<td>
@@ -426,9 +432,10 @@
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
 						<li>DIARY</li>
-						<li>OOVIYAM</li>
+						<li>OVIYAM</li>
                     </ul>
 				</font>
+				<br><br><br><br><br><br>
 			</td>
 
 			<td>
@@ -453,7 +460,7 @@
 	</table>
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="G2">
 		<tr align="center">
-            <td colspan = "4">
+            <td colspan>
                 <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
@@ -490,7 +497,7 @@
                         <li>PRODUCER</li>
 					</ul>
 
-					<h3>THEDAL</h3>
+					<h3>THEDAL 01</h3>
 					<ul style="list-style-type:disc">
 						<li>DETAILS CHECKER</li>
                     </ul>
@@ -503,16 +510,13 @@
 				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
-						<li>VGJAN VISUALS LOGO</li>
-						<li>EXTRA
-							<dd>???</dd>
-						</li>
+						<li>VGJAN VISUALS FACTORY LOGO</li>
                     </ul>
 
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
 						<li>DIARY</li>
-						<li>OOVIYAM</li>
+						<li>OVIYAM</li>
                     </ul>
 
 					<h3>OTHER</h3>
@@ -526,9 +530,1267 @@
 						</li>
 						
 						<li>STUDYING
-							<dd>WIJAYARATNAM H.C.C</dd>
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
 						</li>
                     </ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br>
+	<table align="center" width="1075em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SS">
+		<tr align="center">
+            <td colspan = "4">
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            03 - SRI SATHIYAN
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/SS2.jpg" alt="Sri Sathiyan"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h3>DIARY</h3>
+                    <ul style="list-style-type:disc">
+                        <li>PRODUCER</li>
+                        <li>DIRECTOR</li>
+                        <li>ACTOR
+							<dd>GUEST ROLE</dd>
+						</li>
+                    </ul>
+				</font>
+				<br><br><br><br><br><br><br><br><br><br><br><br>
+			</td>
+
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>PURIYAA IRUL</h3>
+                    <ul style="list-style-type:disc">
+                        <li>PRODUCER</li>
+					</ul>
+				</font>
+				<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			</td>
+
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>YAAR</h3>
+                	<ul style="list-style-type:disc">
+                        <li>PRODUCER</li>
+						<li>ACTOR
+							<dd>HERO - "SATHIYAN"</dd>
+						</li>
+					</ul>
+				</font>
+				<br><br><br><br><br><br><br><br><br><br><br><br><br>
+			</td>
+
+			<td>
+				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>14TH DECEMBER 2004</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO</dd>
+						</li>
+						
+						<li>STUDYING
+							<dd>WIJAYARATNAM H.C.C</dd>
+						</li>
+
+						<li>SPECIAL COMPETITIONS
+							<dd>CARNATIC/MUSLIM<br> ALL ISLAND MUSIC<br> COMPETITION<br> 2018 - 2ND PLACE</dd>
+							<br>
+							<dd>PANNISAI NATIONAL<br> CREATIVITY SPECIAL<br> COMPETITION<br> 2018 - 2ND PLACE</dd>
+						</li>
+                    </ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SS2">
+		<tr align="center">
+            <td colspan>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            03 - SRI SATHIYAN
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/SS2.jpg" alt="Sri Sathiyan"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h3>DIARY</h3>
+                    <ul style="list-style-type:disc">
+                        <li>PRODUCER</li>
+                        <li>DIRECTOR</li>
+                        <li>ACTOR
+							<dd>GUEST ROLE</dd>
+						</li>
+                    </ul>
+
+					<h3>PURIYAA IRUL</h3>
+                    <ul style="list-style-type:disc">
+                        <li>PRODUCER</li>
+					</ul>
+
+					<h3>YAAR</h3>
+                	<ul style="list-style-type:disc">
+                        <li>PRODUCER</li>
+						<li>ACTOR
+							<dd>HERO - "SATHIYAN"</dd>
+						</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>14TH DECEMBER 2004</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO</dd>
+						</li>
+						
+						<li>STUDYING
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+
+						<li>SPECIAL COMPETITIONS
+							<dd>CARNATIC/MUSLIM ALL ISLAND MUSIC COMPETITION<br> 2018 - 2ND PLACE</dd>
+							<br>
+							<dd>PANNISAI NATIONAL CREATIVITY SPECIAL COMPETITION<br> 2018 - 2ND PLACE</dd>
+						</li>
+                    </ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br>
+	<table align="center" border="0" width="1095em" id="kl">
+		<tr>
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="JJ">
+					<tr align="center">
+						<td colspan = "2">
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										04 - JOHNSAN JEEWA
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/JC.jpg" alt="Johnsan Jeewa"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>DIARY</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>GUEST ROLE</dd>
+									</li>
+								</ul>
+
+								<h3>PURIYAA IRUL</h3>
+								<ul style="list-style-type:disc">
+									<li>MUSIC DIRECTOR</li>
+								</ul>
+
+								<h3>YAAR</h3>
+								<ul style="list-style-type:disc">
+									<li>MUSIC DIRECTOR</li>
+								</ul>
+							</font>
+							<br><br><br>
+						</td>
+
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>13TH OCTOBER 2000</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO - KOCHIKADE</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+
+									<li>JOB
+										<dd>____________</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br><br><br><br><br>
+						</td>
+					</tr>
+				</table>
+			</td>
+
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="KL">
+					<tr align="center">
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										05 - KRINSTAN LEE
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/KSL.jpg" alt="Kristan Lee"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>YAAR</h3>
+								<ul style="list-style-type:disc">
+									<li>MUSIC DIRECTOR</li>
+								</ul>
+
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>05TH JUNE 2000</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+
+									<li>JOB
+										<dd>____________</dd>
+									</li>
+
+									<li>SPECIAL COMPETITIONS
+										<dd>CARNATIC/MUSLIM ALL ISLAND MUSIC<br> COMPETITION 2018 - 2ND PLACE</dd>
+									</li>
+								</ul>
+								<br>
+							</font>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="JJ2">
+		<tr align="center">
+            <td colspan = "4">
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            04 - JOHNSAN JEEWA
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/JC.jpg" alt="Johnsan Jeewa"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h3>DIARY</h3>
+                    <ul style="list-style-type:disc">
+                        <li>ACTOR
+							<dd>GUEST ROLE</dd>
+						</li>
+                    </ul>
+
+					<h3>PURIYAA IRUL</h3>
+                    <ul style="list-style-type:disc">
+                        <li>MUSIC DIRECTOR</li>
+					</ul>
+
+					<h3>YAAR</h3>
+                	<ul style="list-style-type:disc">
+                        <li>MUSIC DIRECTOR</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>13TH OCTOBER 2000</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO - KOCHIKADE</dd>
+						</li>
+						
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+
+						<li>JOB
+							<dd>____________</dd>
+						</li>
+                    </ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br id="G2">
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="KL2">
+		<tr align="center">
+            <td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            05 - KRISTAN LEE
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/KSL.jpg" alt="Kristan Lee"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>YAAR</h3>
+                	<ul style="list-style-type:disc">
+                        <li>MUSIC DIRECTOR</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>05TH JUNE 2000</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO</dd>
+						</li>
+						
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+
+						<li>JOB
+							<dd>____________</dd>
+						</li>
+
+						<li>SPECIAL COMPETITIONS
+							<dd>CARNATIC/MUSLIM ALL ISLAND MUSIC<br> COMPETITION 2018 - 2ND PLACE</dd>
+						</li>
+                    </ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br>
+	<table align="center" border="0" width="1095em" id="jj">
+		<tr>
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="R">
+					<tr align="center">
+						<td colspan = "2">
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										06 - ROHIT
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/R.jpg" alt="Rohit"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>DIARY</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>VILLAN - "STEPHAN"</dd>
+									</li>
+								</ul>
+
+								<h3>YAAR</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>HERO - "ROHIT"</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br>
+						</td>
+
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>11TH NOVEMBER 2004</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO - DHALUPATHA</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br>
+						</td>
+					</tr>
+				</table>
+			</td>
+
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SR">
+					<tr align="center">
+						<td colspan = "2">
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										07 - SAM ROHAN
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/SR.jpg" alt="Sam Rohan"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>DIARY</h3>
+								<ul style="list-style-type:disc">
+									<li>WRITTER</li>
+									<li>ACTOR
+										<dd>2ND HERO - "DHINESH"</dd>
+									</li>
+								</ul>
+								
+								<h3>YAAR</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>HERO - "SAM"</dd>
+									</li>
+								</ul>
+							</font>
+						</td>
+					
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>4TH MAY 2004</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO - KOCHIKADE</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br><br>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="R2">
+		<tr align="center">
+            <td colspan = "4">
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            06 - ROHIT
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/R.jpg" alt="Rohit"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>DIARY</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR
+							<dd>VILLAN - "STEPHAN"</dd>
+						</li>
+					</ul>
+
+					<h3>YAAR</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR
+							<dd>HERO - "ROHIT"</dd>
+						</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>11TH NOVEMBER 2004</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO - DHALUPATHA</dd>
+						</li>
+									
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+					</ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br id="SR2">
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SR2">
+		<tr align="center">
+            <td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            07 - SAM ROHAN
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/SR.jpg" alt="Sam Rohan"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>DIARY</h3>
+					<ul style="list-style-type:disc">
+						<li>WRITTER</li>
+						<li>ACTOR
+							<dd>2ND HERO - "DHINESH"</dd>
+						</li>
+					</ul>
+								
+					<h3>YAAR</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR
+							<dd>HERO - "SAM"</dd>
+						</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>4TH MAY 2004</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO - KOCHIKADE</dd>
+						</li>
+									
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLAGE</dd>
+						</li>
+					</ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br>
+	<table align="center" border="0" width="1095em" id="ss">
+		<tr>
+			<td>
+				<table align="center" width="510em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="D">
+					<tr align="center">
+						<td colspan = "2">
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										08 - DHANUSH
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/D.jpg" alt="Dhanush"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>DIARY</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>HERO - "VICKNESH"</dd>
+									</li>
+								</ul>
+
+								<h3>YAAR</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>HERO - "DHANUSH"</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br><br><br>
+						</td>
+
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>15TH<br>OCTOBER 2004</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br><br><br><br>
+						</td>
+					</tr>
+				</table>
+			</td>
+
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="T">
+					<tr align="center">
+						<td colspan = "2">
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										09 - THANUSHAN
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/T.jpg" alt="Thanushan"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>DIARY</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>GUEST ROLE</dd>
+									</li>
+								</ul>
+								
+								<h3>YAAR</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>HERO - "THANUSHAN"</dd>
+									</li>
+								</ul>
+
+								<h3>THEDAL 01</h3>
+								<ul style="list-style-type:disc">
+									<li>PHOTOGRAPHER</li>
+								</ul>
+							</font><br>
+						</td>
+					
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>19TH DECEMBER 2004</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br><br><br><br>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="D2">
+		<tr align="center">
+            <td colspan = "4">
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            08 - DHANUSH
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/D.jpg" alt="Dhanush"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>DIARY</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR
+							<dd>HERO - "VICKNESH"</dd>
+						</li>
+					</ul>
+
+					<h3>YAAR</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR
+							<dd>HERO - "DHANUSH"</dd>
+						</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>15TH<br>OCTOBER 2004</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO</dd>
+						</li>
+									
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+					</ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br id="SR2">
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="T2">
+		<tr align="center">
+            <td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            09 - THANUSHAN
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/T.jpg" alt="Thanushan"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>DIARY</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR
+							<dd>GUEST ROLE</dd>
+						</li>
+					</ul>
+									
+					<h3>YAAR</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR
+							<dd>HERO - "THANUSHAN"</dd>
+						</li>
+					</ul>
+
+					<h3>THEDAL 01</h3>
+						<ul style="list-style-type:disc">
+							<li>PHOTOGRAPHER<li>
+						</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>19TH DECEMBER 2004</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO</dd>
+						</li>
+									
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+					</ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br>
+	<table align="center" border="0" width="1095em" id="g">
+		<tr>
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="A">
+					<tr align="center">
+						<td colspan = "2">
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										10 - ABISHEK
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/A2.jpg" alt="Abishek"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>YAAR</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>HERO - "ABISHEK"</dd>
+									</li>
+								</ul>
+
+								<h3>THEDAL 01</h3>
+								<ul style="list-style-type:disc">
+									<li>PLACE SELECTOR</li>
+									<li>DETAILS COLLECTOR</li>
+								</ul>
+							</font>
+							<br><br><br>
+						</td>
+
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>STORIES</h3>
+								<ul style="list-style-type:disc">
+									<li>SUWARNAMANI</li>
+									<li>BLOOD CHAPTERS</li>
+								</ul>
+								
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>27TH<br>FEBRUARY 2004</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+								</ul>
+							</font>
+						</td>
+					</tr>
+				</table>
+			</td>
+
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="Y">
+					<tr align="center">
+						<td colspan = "2">
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										11 - YOHAN SABARISH
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/Y.jpg" alt="Yohan"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">								
+								<h3>YAAR</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR</li>
+								</ul>
+							</font>
+							<br><br><br><br><br><br><br><br><br><br><br><br><br>
+						</td>
+					
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>07TH MAY 2004</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO - DHALUPATHA</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+
+									<li>SPORTS
+										<dd>WINNER UP IN JOHOR INTERNATIONAL T20 UNDER 19 IN 2019 (AT BOI CRICKET STADIUM)</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="A2">
+		<tr align="center">
+            <td colspan = "4">
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            10 - ABISHEK
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/A2.jpg" alt="Abishek"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>YAAR</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR
+							<dd>HERO - "ABISHEK"</dd>
+						</li>
+					</ul>
+
+					<h3>THEDAL 01</h3>
+					<ul style="list-style-type:disc">
+						<li>PLACE SELECTOR</li>
+						<li>DETAILS COLLECTOR</li>
+					</ul>
+
+					<h3>STORIES</h3>
+					<ul style="list-style-type:disc">
+						<li>SUWARNAMANI</li>
+						<li>BLOOD CHAPTERS</li>
+					</ul>
+								
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>27TH<br>FEBRUARY 2004</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO</dd>
+						</li>
+									
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+					</ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br id="SR2">
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="Y2">
+		<tr align="center">
+            <td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            11 - YOHAN
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/Y.jpg" alt="Yohan"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>YAAR</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>07TH MAY 2004</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO - DHALUPATHA</dd>
+						</li>
+									
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+
+						<li>SPORTS
+							<dd>WINNER UP IN JOHOR INTERNATIONAL T20 UNDER 19 IN 2019 (AT BOI CRICKET STADIUM)</dd>
+						</li>
+					</ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br>
+	<table align="center" border="0" width="1095em" id="m">
+		<tr>
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="I">
+					<tr align="center">
+						<td colspan = "2">
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										12 - IDHAYARUBAN
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/I.jpg" alt="Idhayaruban"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>YAAR</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR
+										<dd>MAIN ROLE - "HARISH"</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br><br><br><br>
+						</td>
+
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>10TH<br>DECEMBER 2003</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO - DHALUPATHA</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+								</ul>
+							</font>
+						</td>
+					</tr>
+				</table>
+			</td>
+
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="S">
+					<tr align="center">
+						<td colspan = "2">
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										13 - SANJAYAN
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/SA.jpg" alt="Sanjayan"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">								
+								<h3>PURIYAA IRUL</h3>
+								<ul style="list-style-type:disc">
+									<li>ACTOR</li>
+								</ul>
+							</font>
+							<br><br><br><br><br><br><br><br>
+						</td>
+					
+						<td>
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>10TH JUNE 2004</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>SEETHUWA</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+								</ul>
+							</font>
+							<br><br><br>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="I2">
+		<tr align="center">
+            <td colspan = "4">
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            12 - IDHAYARUBAN
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/I.jpg" alt="Idhayaruban"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>YAAR</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR
+							<dd>MAIN ROLE - "HARISH"</dd>
+						</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>07TH<br>DECEMBER 2003</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO - DHALUPATHA</dd>
+						</li>
+									
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+					</ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+	<br id="SR2">
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="S2">
+		<tr align="center">
+            <td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            13 - SANJAYAN
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/SA.jpg" alt="Sanjayan"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>PURIYAA IRUL</h3>
+					<ul style="list-style-type:disc">
+						<li>ACTOR</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>10TH JUNE 2004</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>SEETHUWA</dd>
+						</li>
+									
+						<li>STUDYED
+							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
+						</li>
+					</ul>
 				</font>
 			</td>
 		</tr>

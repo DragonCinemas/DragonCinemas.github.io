@@ -137,6 +137,15 @@
 							<li>PC GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#M" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -159,7 +168,7 @@
 		</tr>
 		
 		<tr>
-			<td width="250em">
+			<td width = "350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -180,6 +189,15 @@
 							<li>PC GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#M2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -216,6 +234,15 @@
 							<li>HELPER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#G" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -238,7 +265,7 @@
 		</tr>
 		
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -256,6 +283,15 @@
 							<li>HELPER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#G2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -291,6 +327,15 @@
 							<li>COLLABRATOR</li>
 						</ul>
 					</font>
+					
+					<center><br>
+					<a href="Self_Works.php#SS" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -313,7 +358,7 @@
 		</tr>
 			
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -330,6 +375,15 @@
 							<li>COLLABRATOR</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#SS2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -365,6 +419,15 @@
 							<li>PC GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#JJ" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -387,7 +450,7 @@
 		</tr>
 			
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -400,6 +463,15 @@
 							<li>PC GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#JJ2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -429,6 +501,15 @@
 							<li>SINGER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#KL" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -451,7 +532,7 @@
 		</tr>
 			
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -462,6 +543,15 @@
 							<li>SINGER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#KL2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -499,6 +589,15 @@
 							<li>COLLABRATOR</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#R" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -521,7 +620,7 @@
 		</tr>
 		
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -536,6 +635,15 @@
 							<li>COLLABRATOR</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#R2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -566,6 +674,15 @@
 							<li>MOBILE GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#SR" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -588,7 +705,7 @@
 		</tr>
 		
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -600,6 +717,15 @@
 							<li>MOBILE GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#SR2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -631,6 +757,15 @@
 							<li>MOBILE GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#D" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -653,7 +788,7 @@
 		</tr>
 		
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -666,6 +801,15 @@
 							<li>MOBILE GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#D2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -696,6 +840,15 @@
 							<li>MOBILE GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#T" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -718,7 +871,7 @@
 		</tr>
 		
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -730,6 +883,15 @@
 							<li>MOBILE GAMER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#T2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -739,7 +901,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="A">
 		<tr>
 			<td>
-				<img src="Images/A.jpg" alt="Abishek"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+				<img src="Images/A2.jpg" alt="Abishek"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
 			</td>
 			
 			<td width="500em">
@@ -761,6 +923,15 @@
 							<li>COLLABRATOR</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#A" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -778,12 +949,12 @@
 	
 		<tr>
 			<td align="center">
-				<img src="Images/A.jpg" alt="Abishek"  width="190" height="190" style="box-shadow: 6px 2px 8px #000000">
+				<img src="Images/A2.jpg" alt="Abishek"  width="190" height="190" style="box-shadow: 6px 2px 8px #000000">
 			</td>
 		</tr>
 			
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -796,6 +967,15 @@
 							<li>COLLABRATOR</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#A2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -827,6 +1007,15 @@
 							<li>COLLABRATOR</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#Y" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -849,7 +1038,7 @@
 		</tr>
 			
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -862,6 +1051,15 @@
 							<li>COLLABRATOR</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#Y2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -891,6 +1089,15 @@
 							<li>VOLLEYBALL PLAYER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#I" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -913,7 +1120,7 @@
 		</tr>
 			
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -924,6 +1131,15 @@
 							<li>VOLLEYBALL PLAYER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#I2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -952,6 +1168,15 @@
 							<li>FOOTBALL PLAYER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#S" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
@@ -974,7 +1199,7 @@
 		</tr>
 		
 		<tr>
-			<td width="250em">
+			<td width="350em">
 				<p>
 					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h3>SKILLS</h3>
@@ -984,6 +1209,15 @@
 							<li>FOOTBALL PLAYER</li>
 						</ul>
 					</font>
+
+					<center><br>
+					<a href="Self_Works.php#S2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
 				</p>
 			</td>
 		</tr>
