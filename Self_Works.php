@@ -184,12 +184,88 @@
 				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
-						<li>M CRAETION LOGO</li>
-						<li>DC LOGOS</li>
-						<li>THEDAL LOGO</li>
+						<li>
+							<a href="Videos/MCreations.mkv" style="text-decoration:none">
+								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									M CREATIONS LOGO
+								</font>
+							</a>
+						</li>
+					
+						<li>DC LOGOS
+							<dd>
+								<a href="Videos/DCinemas_01.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										VERSION 1
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/DCinemas.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										VERSION 2
+									</font>
+								</a>
+							</dd>
+						</li>
+
+						<li>
+							<a href="Videos/Thedal.mkv" style="text-decoration:none">
+								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									THEDAL LOGO
+								</font>
+							</a>
+						</li>
+
 						<li>EXTRA
-							<dd>IAM WATCHING</dd>
-							<dd>WHITE COBRA</dd>
+							<dd>
+								<a href="Videos/Iam_Watching.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										IAM WATCHING
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/WhiteCobra.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										WHITE COBRA
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/Blaster.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										BLASTER
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/Write_On.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										WRITE-ON
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/Text-In.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										TEXT-IN
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/Text-Effect.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										TEXT-EFFECT
+									</font>
+								</a>
+							</dd>
 						</li>
                     </ul>
 				</font>
@@ -201,11 +277,17 @@
 					<ul style="list-style-type:disc">
 						<li>THIGILPPAYANAM</li>
 						<li>YAAR</li>
-						<li>PURIYAA IRUL</li>
+						<li>
+							<a href="Scripts/PuriyaaIrul_Script.pdf" style="text-decoration:none">
+								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									PURIYAA IRUL
+								</font>
+							</a>
+						</li>
 						<li>JK CHAPTERS</li>
                     </ul>
 				</font>
-				<br><br>
+				<br><br><br><br><br><br><br><br>
 			</td>
 
 			<td>
@@ -219,7 +301,7 @@
 						<li>UNAITHEDUM</li>
                     </ul>
 				</font>
-				<br>
+				<br><br><br><br><br><br><br>
 			</td>
 
 			<td>
@@ -239,6 +321,7 @@
 						</li>
                     </ul>
 				</font>
+				<br><br><br><br><br><br>
 			</td>
 		</tr>
 	</table>
@@ -307,21 +390,102 @@
 				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
-						<li>M CRAETION LOGO</li>
-						<li>DC LOGOS</li>
-						<li>THEDAL LOGO</li>
-						<li>EXTRA
-							<dd>IAM WATCHING</dd>
-							<dd>WHITE COBRA</dd>
+						<li>
+							<a href="Videos/MCreations.mkv" style="text-decoration:none">
+								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									M CREATIONS LOGO
+								</font>
+							</a>
 						</li>
-                    </ul>
+					
+						<li>DC LOGOS
+							<dd>
+								<a href="Videos/DCinemas_01.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										VERSION 1
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/DCinemas.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										VERSION 2
+									</font>
+								</a>
+							</dd>
+						</li>
+
+						<li>
+							<a href="Videos/Thedal.mkv" style="text-decoration:none">
+								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									THEDAL LOGO
+								</font>
+							</a>
+						</li>
+
+						<li>EXTRA
+							<dd>
+								<a href="Videos/Iam_Watching.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										IAM WATCHING
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/WhiteCobra.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										WHITE COBRA
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/Blaster.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										BLASTER
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/Write_On.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										WRITE-ON
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/Text-In.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										TEXT-IN
+									</font>
+								</a>
+							</dd>
+
+							<dd>
+								<a href="Videos/Text-Effect.mkv" style="text-decoration:none">
+									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+										TEXT-EFFECT
+									</font>
+								</a>
+							</dd>
+						</li>
                     </ul>
 
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
 						<li>THIGILPPAYANAM</li>
 						<li>YAAR</li>
-						<li>PURIYAA IRUL</li>
+						<li>
+							<a href="Scripts/PuriyaaIrul_Script.pdf" style="text-decoration:none">
+								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									PURIYAA IRUL
+								</font>
+							</a>
+						</li>
 						<li>JK CHAPTERS</li>
                     </ul>
 
@@ -431,7 +595,13 @@
 				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
-						<li>DIARY</li>
+						<li>
+							<a href="Scripts/DiaryScript.pdf" style="text-decoration:none">
+								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									DIARY
+								</font>
+							</a>
+						</li>
 						<li>OVIYAM</li>
                     </ul>
 				</font>
@@ -1179,7 +1349,7 @@
 									</li>
 								</ul>
 							</font>
-							<br><br><br><br>
+							<br><br><br><br><br><br>
 						</td>
 
 						<td>
@@ -1199,7 +1369,7 @@
 									</li>
 								</ul>
 							</font>
-							<br><br><br><br><br>
+							<br><br><br><br><br><br><br>
 						</td>
 					</tr>
 				</table>
@@ -1242,11 +1412,18 @@
 								<ul style="list-style-type:disc">
 									<li>PHOTOGRAPHER</li>
 								</ul>
-							</font><br>
+							</font><br><br>
 						</td>
 					
 						<td>
 							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>STORIES</h3>
+								<ul style="list-style-type:disc">
+									<li>YAAR</li>
+									<li>ANAATHAI</li>
+									<li>666</li>
+                   				</ul>	
+
 								<h3>OTHER</h3>
 								<ul style="list-style-type:disc">
 									<li>BORN
@@ -1262,7 +1439,6 @@
 									</li>
 								</ul>
 							</font>
-							<br><br><br><br><br>
 						</td>
 					</tr>
 				</table>
@@ -1302,6 +1478,13 @@
 						</li>
 					</ul>
 
+					<h3>STORIES</h3>
+					<ul style="list-style-type:disc">
+						<li>YAAR</li>
+						<li>ANAATHAI</li>
+						<li>666</li>
+					</ul>
+								   
 					<h3>OTHER</h3>
 					<ul style="list-style-type:disc">
 						<li>BORN
@@ -1355,9 +1538,16 @@
 					</ul>
 
 					<h3>THEDAL 01</h3>
-						<ul style="list-style-type:disc">
-							<li>PHOTOGRAPHER<li>
-						</ul>
+					<ul style="list-style-type:disc">
+						<li>PHOTOGRAPHER<li>
+					</ul>
+
+					<h3>STORIES</h3>
+					<ul style="list-style-type:disc">
+						<li>YAAR<li>
+						<li>ANAATHAI<li>
+						<li>666<li>
+					</ul>
 
 					<h3>OTHER</h3>
 					<ul style="list-style-type:disc">
@@ -1412,12 +1602,7 @@
 									<li>PLACE SELECTOR</li>
 									<li>DETAILS COLLECTOR</li>
 								</ul>
-							</font>
-							<br><br><br>
-						</td>
 
-						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>STORIES</h3>
 								<ul style="list-style-type:disc">
 									<li>SUWARNAMANI</li>
@@ -1439,6 +1624,7 @@
 									</li>
 								</ul>
 							</font>
+							<br><br><br><br><br><br><br>
 						</td>
 					</tr>
 				</table>
@@ -1447,7 +1633,7 @@
 			<td>
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="Y">
 					<tr align="center">
-						<td colspan = "2">
+						<td>
 							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
@@ -1462,17 +1648,11 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">								
+							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>YAAR</h3>
 								<ul style="list-style-type:disc">
 									<li>ACTOR</li>
-								</ul>
-							</font>
-							<br><br><br><br><br><br><br><br><br><br><br><br><br>
-						</td>
-					
-						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								</ul>	
 								<h3>OTHER</h3>
 								<ul style="list-style-type:disc">
 									<li>BORN
@@ -1487,8 +1667,18 @@
 										<dd>WIJAYARATNAM H.C.C</dd>
 									</li>
 
+									<li>SPECIAL COMPETITIONS
+										<dd>CARNATIC/MUSLIM ALL ISLAND MUSIC COMPETITION 2018 - 2ND PLACE</dd>
+										<br>
+										<dd>PANNISAI NATIONAL CREATIVITY SPECIAL COMPETITION 2018 - 2ND PLACE</dd>
+										<br>
+										<dd>TAMIL LANGUAGE DAY MUSIC COMPETITION 2016 - 2ND PLACE</dd>
+									</li>
+
 									<li>SPORTS
 										<dd>WINNER UP IN JOHOR INTERNATIONAL T20 UNDER 19 IN 2019 (AT BOI CRICKET STADIUM)</dd>
+										<br>
+										<dd>BASILIKA CRICKET CARNIVAL UNDER12/13/15 INTER ACADEMY TOURNAMENT 2018</dd>
 									</li>
 								</ul>
 							</font>
@@ -1594,8 +1784,18 @@
 							<dd>WIJAYARATNAM HINDU CENTRAL COLLEGE</dd>
 						</li>
 
+						<li>SPECIAL COMPETITIONS
+							<dd>CARNATIC/MUSLIM ALL ISLAND MUSIC COMPETITION 2018 - 2ND PLACE</dd>
+							<br>
+							<dd>PANNISAI NATIONAL CREATIVITY SPECIAL COMPETITION 2018 - 2ND PLACE</dd>
+							<br>
+							<dd>TAMIL LANGUAGE DAY MUSIC COMPETITION 2016 - 2ND PLACE</dd>
+						</li>
+
 						<li>SPORTS
 							<dd>WINNER UP IN JOHOR INTERNATIONAL T20 UNDER 19 IN 2019 (AT BOI CRICKET STADIUM)</dd>
+							<br>
+							<dd>BASILIKA CRICKET CARNIVAL UNDER12/13/15 INTER ACADEMY TOURNAMENT 2018</dd>
 						</li>
 					</ul>
 				</font>

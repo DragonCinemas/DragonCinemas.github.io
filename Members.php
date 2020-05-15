@@ -301,7 +301,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SS">
 		<tr>
 			<td>
-				<img src="Images/SS.jpg" alt="Sathiyan"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+				<img src="Images/SS2.jpg" alt="Sathiyan"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
 			</td>
 			
 			<td width="500em">
@@ -353,7 +353,7 @@
 		
 		<tr>
 			<td align="center">
-				<img src="Images/SS.jpg" alt="Sathiyan"  width="190" height="190" style="box-shadow: 6px 2px 8px #000000">
+				<img src="Images/SS2.jpg" alt="Sathiyan"  width="190" height="190" style="box-shadow: 6px 2px 8px #000000">
 			</td>
 		</tr>
 			
