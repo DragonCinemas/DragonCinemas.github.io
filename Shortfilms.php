@@ -23,20 +23,24 @@
 		<tr>
 			<td>
 				<a href="index.php">
-					<button class="navigationBtn"><font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">HOME</font></button>
+					<button class="navigationBtn">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
+							HOME
+						</font>
+					</button>
 				</a>
 			</td>
 			
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">CREATIONS</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">CREATIONS</font>
 					</button>
 					
 					<div class="dropdown-content">
 						<a href="Films.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									FILMS
 								</font>
 							</button>	
@@ -44,7 +48,7 @@
 
 						<a href="Shortfilms.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									SHORTFILMS
 								</font>
 							</button>
@@ -52,7 +56,7 @@
 
 						<a href="Thedal.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS3">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									THEDAL
 								</font>
 							</button>
@@ -64,13 +68,13 @@
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">GROUP</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">GROUP</font>
 					</button>
 
 					<div class="dropdown-content">
 						<a href="Members.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									MEMBERS
 								</font>
 							</button>
@@ -78,7 +82,7 @@
 
 						<a href="Self_Works.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									WORKS
 								</font>
 							</button>
@@ -90,7 +94,7 @@
 			<td>
 				<a href="More.php">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
 							MORE
 						</font>
 					</button>
@@ -101,7 +105,7 @@
 	
 	<br>
 	<h1>
-		<center><b><i><font face="Gabriola" style="text-shadow: 1px 1px 10px black; color:orange">--- SHORTFILMS ---</font></i></b></center>
+		<center><b><i><font class="Gabriola" style="text-shadow: 1px 1px 10px black; color:orange">--- SHORTFILMS ---</font></i></b></center>
 	</h1>
 	
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM1">
@@ -111,15 +115,15 @@
 			</td>
 				
 			<td align="center">
-				<h2><font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >01 - DIARY - THE FIND OUT (2020)</font></h2>
+				<h2><font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >01 - DIARY - THE FIND OUT (2020)</font></h2>
 				
 				<p>
-					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						18 MIN 35 SEC | CASUAL | PRACTISE
 						<br>RATE : ___&emsp;&nbsp;MAX.POINT : ___&emsp;&nbsp;MIN.POINTS : ___
 					</font></small>
 
-					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
 						<br><br>It's a short film producing by DRAGON CINEMAS. This was made for practise for our next big&nbsp; &nbsp;<br>creations. And it's a trial for our future.
 						
 						<br><br>Director : 
@@ -144,7 +148,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM01">
 		<tr>
 			<td align="center">
-				<h2><font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >01 - DIARY - THE FIND OUT (2020)</font></h2>
+				<h2><font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >01 - DIARY - THE FIND OUT (2020)</font></h2>
 				
 				<img src="Images/DIARY1.jpg" alt="Diary" width="200" height="100" style="box-shadow: 6px 2px 8px #000000" id="DIARY">
 			</td>
@@ -153,12 +157,12 @@
 		<tr>		
 			<td align="center">
 				<p>
-					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<small><font  class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						18 MIN 35 SEC | CASUAL | PRACTISE
 						<br>RATE : ___<br>MAX.POINT : ___<br>MIN.POINTS : ___
 					</font></small>
 
-					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
 						<br><br>It's a short film producing by DRAGON CINEMAS. This was made for practise for our next big creations. And it's a trial for our future.
 						
 						<br><br>Director : 
@@ -189,15 +193,15 @@
 			</td>
 				
 			<td align="center">
-				<h2><font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >02 - PURIYAA IRUL (2020)</font></h2>
+				<h2><font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >02 - PURIYAA IRUL (2020)</font></h2>
 				
 				<p>
-					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
 						<br>RATE : ___&emsp;&nbsp;MAX.POINT : ___&emsp;&nbsp;MIN.POINTS : ___
 					</font></small>
 
-					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
 						<br><br>It's a short film producing by DRAGON CINEMAS &amp; M CREATIONS. This was made for test&nbsp; <br>our friends' (ALL SUBSCRIBERS) brain level thier own-self.
 						
 						<br><br>Director : 
@@ -217,7 +221,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM02">
 		<tr>
 			<td align="center">
-				<h2><font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >02 - PURIYAA IRUL (2020)</font></h2>
+				<h2><font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >02 - PURIYAA IRUL (2020)</font></h2>
 				
 				<img src="Images/PY1.jpg" alt="Puriyaa Irul" width="200" height="100" style="box-shadow: 6px 2px 8px #000000" id="PY">
 			</td>
@@ -226,12 +230,12 @@
 		<tr>		
 			<td align="center">
 				<p>
-					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
 						<br>RATE : ___<br>MAX.POINT : ___<br>MIN.POINTS : ___
 					</font></small>
 
-					<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
 						<br><br>It's a short film producing by DRAGON CINEMAS &amp; M CREATIONS. This was made for test our friends' (ALL SUBSCRIBERS) brain level thier own-self.
 						
 						<br><br>Director : 

@@ -23,20 +23,24 @@
 		<tr>
 			<td>
 				<a href="index.php">
-					<button class="navigationBtn"><font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">HOME</font></button>
+					<button class="navigationBtn">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
+							HOME
+						</font>
+					</button>
 				</a>
 			</td>
 			
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">CREATIONS</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">CREATIONS</font>
 					</button>
 					
 					<div class="dropdown-content">
 						<a href="Films.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									FILMS
 								</font>
 							</button>	
@@ -44,7 +48,7 @@
 
 						<a href="Shortfilms.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									SHORTFILMS
 								</font>
 							</button>
@@ -52,7 +56,7 @@
 
 						<a href="Thedal.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS3">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									THEDAL
 								</font>
 							</button>
@@ -64,13 +68,13 @@
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">GROUP</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">GROUP</font>
 					</button>
 
 					<div class="dropdown-content">
 						<a href="Members.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									MEMBERS
 								</font>
 							</button>
@@ -78,7 +82,7 @@
 
 						<a href="Self_Works.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									WORKS
 								</font>
 							</button>
@@ -90,7 +94,7 @@
 			<td>
 				<a href="More.php">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
 							MORE
 						</font>
 					</button>
@@ -104,12 +108,12 @@
 			<td align="center">
 				<p>
 					<h1>
-						<font face="Adobe Caslon Pro" size="+4" style="text-shadow: 1px 1px 10px black; color:orange">
+						<font class="Adopecaslonpro" size="+4" style="text-shadow: 1px 1px 10px black; color:orange">
 							<i>-- 02. PURIYAA IRUL (2020) --</i>
 						</font>
 					</h1>
 
-					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
+					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
 						<br>RATE : ___&emsp;&ensp;MAX.POINTS : ___&emsp;&ensp;MIN.POINTS : ___
 
@@ -119,7 +123,7 @@
 					<img src="Images/PY2.jpg" height="300" width="550" id="PY" style="box-shadow: 10px 2px 12px #000000">
 
 					<br>
-					<font face="Adobe Caslon Pro" size="+2" color="#FFFFFF" style="text-shadow: 1px 1px 12px black">
+					<font class="Adopecaslonpro" size="+2" color="#FFFFFF" style="text-shadow: 1px 1px 12px black">
 						<br>It's A Short Film Producing By DRAGON CINEMAS &amp; M CREATIONS. This Is Our Third Creations And <br>Our Second Short Film.
 						This Is Not Just Short Film, This Is A Tester Of A Brain For Our All Friends(ALL SUBCRIBERS). This Kind Of Style Story
 						Was Written &amp; Directed By Our Director MADUSHANTH. If Anyone Watched This <br>Short Film, He Can Know About His
@@ -167,12 +171,12 @@
 			<td align="center">
 				<p>
 					<h2>
-						<font face="Adobe Caslon Pro" size="+2" style="text-shadow: 1px 1px 10px black; color:orange">
+						<font class="Adopecaslonpro" size="+2" style="text-shadow: 1px 1px 10px black; color:orange">
 							<i>-- 02. <br>PURIYAA IRUL (2020) --</i>
 						</font>
 					</h2>
 
-					<small><font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
+					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
 						<br>RATE : ___ MAX.POINTS : ___ MIN.POINTS : ___
 
@@ -182,7 +186,7 @@
 					<img src="Images/PY2.jpg" height="300" width="550" id="YAAR" style="box-shadow: 10px 2px 12px #000000">
 
 					<br>
-					<font face="Adobe Caslon Pro" size="+1" color="#FFFFFF" style="text-shadow: 1px 1px 12px black">
+					<font class="Adopecaslonpro" size="+1" color="#FFFFFF" style="text-shadow: 1px 1px 12px black">
 						<br>It's A Short Film Producing By DRAGON CINEMAS &amp; M CREATIONS. This Is Our Third Creations And Our Second Short Film.
 						This Is Not Just Short Film, This Is A Tester Of A Brain For Our All Friends(ALL SUBCRIBERS). This Kind Of Style Story
 						Was Written &amp; Directed By Our Director MADUSHANTH. If Anyone Watched This Short Film, He Can Know About His

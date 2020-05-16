@@ -23,20 +23,24 @@
 		<tr>
 			<td>
 				<a href="index.php">
-					<button class="navigationBtn"><font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">HOME</font></button>
+					<button class="navigationBtn">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
+							HOME
+						</font>
+					</button>
 				</a>
 			</td>
 			
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">CREATIONS</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">CREATIONS</font>
 					</button>
 					
 					<div class="dropdown-content">
 						<a href="Films.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									FILMS
 								</font>
 							</button>	
@@ -44,7 +48,7 @@
 
 						<a href="Shortfilms.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									SHORTFILMS
 								</font>
 							</button>
@@ -52,7 +56,7 @@
 
 						<a href="Thedal.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS3">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									THEDAL
 								</font>
 							</button>
@@ -64,13 +68,13 @@
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">GROUP</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">GROUP</font>
 					</button>
 
 					<div class="dropdown-content">
 						<a href="Members.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									MEMBERS
 								</font>
 							</button>
@@ -78,7 +82,7 @@
 
 						<a href="Self_Works.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									WORKS
 								</font>
 							</button>
@@ -90,7 +94,7 @@
 			<td>
 				<a href="More.php">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
 							MORE
 						</font>
 					</button>
@@ -101,13 +105,13 @@
 
     <br>
     <h1>
-		<center><b><i><font face="Gabriola" style="text-shadow: 1px 1px 10px black; color:orange">--- WORKS ---</font></i></b></center>
+		<center><b><i><font style="text-shadow: 1px 1px 10px black; color:orange" class="Gabriola">--- WORKS ---</font></i></b></center>
 	</h1>
 	
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="M">
 		<tr align="center">
             <td colspan = "4">
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             01 - MADUSHANTH&emsp;(M CREATIONS)
@@ -121,7 +125,7 @@
 		
         <tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h3>DIARY</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -135,7 +139,7 @@
 			</td>
 
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>PURIYAA IRUL</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -150,7 +154,7 @@
 			</td>
 
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>YAAR</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -166,7 +170,7 @@
 			</td>
 
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>THEDAL 01</h3>
 					<ul style="list-style-type:disc">
 						<li>DETAILS COLLECTER</li>
@@ -181,12 +185,12 @@
 
 		<tr>
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
 						<li>
 							<a href="Videos/MCreations.mkv" style="text-decoration:none">
-								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									M CREATIONS LOGO
 								</font>
 							</a>
@@ -195,7 +199,7 @@
 						<li>DC LOGOS
 							<dd>
 								<a href="Videos/DCinemas_01.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										VERSION 1
 									</font>
 								</a>
@@ -203,7 +207,7 @@
 
 							<dd>
 								<a href="Videos/DCinemas.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										VERSION 2
 									</font>
 								</a>
@@ -212,7 +216,7 @@
 
 						<li>
 							<a href="Videos/Thedal.mkv" style="text-decoration:none">
-								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									THEDAL LOGO
 								</font>
 							</a>
@@ -221,7 +225,7 @@
 						<li>EXTRA
 							<dd>
 								<a href="Videos/Iam_Watching.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										IAM WATCHING
 									</font>
 								</a>
@@ -229,7 +233,7 @@
 
 							<dd>
 								<a href="Videos/WhiteCobra.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										WHITE COBRA
 									</font>
 								</a>
@@ -237,7 +241,7 @@
 
 							<dd>
 								<a href="Videos/Blaster.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										BLASTER
 									</font>
 								</a>
@@ -245,7 +249,7 @@
 
 							<dd>
 								<a href="Videos/Write_On.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										WRITE-ON
 									</font>
 								</a>
@@ -253,7 +257,7 @@
 
 							<dd>
 								<a href="Videos/Text-In.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										TEXT-IN
 									</font>
 								</a>
@@ -261,7 +265,7 @@
 
 							<dd>
 								<a href="Videos/Text-Effect.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										TEXT-EFFECT
 									</font>
 								</a>
@@ -272,14 +276,14 @@
 			</td>
 
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
 						<li>THIGILPPAYANAM</li>
 						<li>YAAR</li>
 						<li>
 							<a href="Scripts/PuriyaaIrul_Script.pdf" style="text-decoration:none">
-								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									PURIYAA IRUL
 								</font>
 							</a>
@@ -291,7 +295,7 @@
 			</td>
 
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>LYRICS</h3>
 					<ul style="list-style-type:disc">
 						<li>WHERE'S HE - YAAR</li>
@@ -305,7 +309,7 @@
 			</td>
 
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>OTHER</h3>
 					<ul style="list-style-type:disc">
 						<li>BORN
@@ -328,7 +332,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="M2">
 		<tr align="center">
             <td colspan>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             01 - MADUSHANTH<br>(M CREATIONS)
@@ -342,7 +346,7 @@
 		
         <tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h3>DIARY</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -387,12 +391,12 @@
 
 		<tr>
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
 						<li>
 							<a href="Videos/MCreations.mkv" style="text-decoration:none">
-								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									M CREATIONS LOGO
 								</font>
 							</a>
@@ -401,7 +405,7 @@
 						<li>DC LOGOS
 							<dd>
 								<a href="Videos/DCinemas_01.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										VERSION 1
 									</font>
 								</a>
@@ -409,7 +413,7 @@
 
 							<dd>
 								<a href="Videos/DCinemas.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										VERSION 2
 									</font>
 								</a>
@@ -418,7 +422,7 @@
 
 						<li>
 							<a href="Videos/Thedal.mkv" style="text-decoration:none">
-								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									THEDAL LOGO
 								</font>
 							</a>
@@ -427,7 +431,7 @@
 						<li>EXTRA
 							<dd>
 								<a href="Videos/Iam_Watching.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										IAM WATCHING
 									</font>
 								</a>
@@ -435,7 +439,7 @@
 
 							<dd>
 								<a href="Videos/WhiteCobra.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										WHITE COBRA
 									</font>
 								</a>
@@ -443,7 +447,7 @@
 
 							<dd>
 								<a href="Videos/Blaster.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										BLASTER
 									</font>
 								</a>
@@ -451,7 +455,7 @@
 
 							<dd>
 								<a href="Videos/Write_On.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										WRITE-ON
 									</font>
 								</a>
@@ -459,7 +463,7 @@
 
 							<dd>
 								<a href="Videos/Text-In.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										TEXT-IN
 									</font>
 								</a>
@@ -467,7 +471,7 @@
 
 							<dd>
 								<a href="Videos/Text-Effect.mkv" style="text-decoration:none">
-									<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										TEXT-EFFECT
 									</font>
 								</a>
@@ -481,7 +485,7 @@
 						<li>YAAR</li>
 						<li>
 							<a href="Scripts/PuriyaaIrul_Script.pdf" style="text-decoration:none">
-								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									PURIYAA IRUL
 								</font>
 							</a>
@@ -521,7 +525,7 @@
 	<table align="center" width="1075em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="G">
 		<tr align="center">
             <td colspan = "4">
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             02 - GOWSALJAN
@@ -535,7 +539,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h3>DIARY</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -549,7 +553,7 @@
 			</td>
 
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>PURIYAA IRUL</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -560,7 +564,7 @@
 			</td>
 
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>YAAR</h3>
                 	<ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -570,7 +574,7 @@
 			</td>
 
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>THEDAL 01</h3>
 					<ul style="list-style-type:disc">
 						<li>DETAILS CHECKER</li>
@@ -582,7 +586,7 @@
 
 		<tr>
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
 						<li>VGJAN VISUALS FACTORY LOGO</li>
@@ -592,12 +596,12 @@
 			</td>
 
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
 						<li>
 							<a href="Scripts/DiaryScript.pdf" style="text-decoration:none">
-								<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									DIARY
 								</font>
 							</a>
@@ -609,7 +613,7 @@
 			</td>
 
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>OTHER</h3>
 					<ul style="list-style-type:disc">
 						<li>BORN
@@ -631,7 +635,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="G2">
 		<tr align="center">
             <td colspan>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             02 - GOWSALJAN
@@ -645,7 +649,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h3>DIARY</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -677,7 +681,7 @@
 
 		<tr>
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
 						<li>VGJAN VISUALS FACTORY LOGO</li>
@@ -712,7 +716,7 @@
 	<table align="center" width="1075em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SS">
 		<tr align="center">
             <td colspan = "4">
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             03 - SRI SATHIYAN
@@ -726,7 +730,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h3>DIARY</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -740,7 +744,7 @@
 			</td>
 
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>PURIYAA IRUL</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -750,7 +754,7 @@
 			</td>
 
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>YAAR</h3>
                 	<ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -763,7 +767,7 @@
 			</td>
 
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>OTHER</h3>
 					<ul style="list-style-type:disc">
 						<li>BORN
@@ -791,7 +795,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SS2">
 		<tr align="center">
             <td colspan>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             03 - SRI SATHIYAN
@@ -805,7 +809,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h3>DIARY</h3>
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
@@ -860,7 +864,7 @@
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="JJ">
 					<tr align="center">
 						<td colspan = "2">
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										04 - JOHNSAN JEEWA
@@ -874,7 +878,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>DIARY</h3>
 								<ul style="list-style-type:disc">
 									<li>ACTOR
@@ -896,7 +900,7 @@
 						</td>
 
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>OTHER</h3>
 								<ul style="list-style-type:disc">
 									<li>BORN
@@ -926,7 +930,7 @@
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="KL">
 					<tr align="center">
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										05 - KRINSTAN LEE
@@ -940,7 +944,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>YAAR</h3>
 								<ul style="list-style-type:disc">
 									<li>MUSIC DIRECTOR</li>
@@ -980,7 +984,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="JJ2">
 		<tr align="center">
             <td colspan = "4">
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             04 - JOHNSAN JEEWA
@@ -994,7 +998,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h3>DIARY</h3>
                     <ul style="list-style-type:disc">
                         <li>ACTOR
@@ -1039,7 +1043,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="KL2">
 		<tr align="center">
             <td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             05 - KRISTAN LEE
@@ -1053,7 +1057,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>YAAR</h3>
                 	<ul style="list-style-type:disc">
                         <li>MUSIC DIRECTOR</li>
@@ -1093,7 +1097,7 @@
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="R">
 					<tr align="center">
 						<td colspan = "2">
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										06 - ROHIT
@@ -1107,7 +1111,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>DIARY</h3>
 								<ul style="list-style-type:disc">
 									<li>ACTOR
@@ -1126,7 +1130,7 @@
 						</td>
 
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>OTHER</h3>
 								<ul style="list-style-type:disc">
 									<li>BORN
@@ -1152,7 +1156,7 @@
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SR">
 					<tr align="center">
 						<td colspan = "2">
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										07 - SAM ROHAN
@@ -1166,7 +1170,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>DIARY</h3>
 								<ul style="list-style-type:disc">
 									<li>WRITTER</li>
@@ -1185,7 +1189,7 @@
 						</td>
 					
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>OTHER</h3>
 								<ul style="list-style-type:disc">
 									<li>BORN
@@ -1212,7 +1216,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="R2">
 		<tr align="center">
             <td colspan = "4">
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             06 - ROHIT
@@ -1226,7 +1230,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>DIARY</h3>
 					<ul style="list-style-type:disc">
 						<li>ACTOR
@@ -1264,7 +1268,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SR2">
 		<tr align="center">
             <td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             07 - SAM ROHAN
@@ -1278,7 +1282,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>DIARY</h3>
 					<ul style="list-style-type:disc">
 						<li>WRITTER</li>
@@ -1320,7 +1324,7 @@
 				<table align="center" width="510em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="D">
 					<tr align="center">
 						<td colspan = "2">
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										08 - DHANUSH
@@ -1334,7 +1338,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>DIARY</h3>
 								<ul style="list-style-type:disc">
 									<li>ACTOR
@@ -1353,7 +1357,7 @@
 						</td>
 
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>OTHER</h3>
 								<ul style="list-style-type:disc">
 									<li>BORN
@@ -1379,7 +1383,7 @@
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="T">
 					<tr align="center">
 						<td colspan = "2">
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										09 - THANUSHAN
@@ -1393,7 +1397,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>DIARY</h3>
 								<ul style="list-style-type:disc">
 									<li>ACTOR
@@ -1416,7 +1420,7 @@
 						</td>
 					
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>STORIES</h3>
 								<ul style="list-style-type:disc">
 									<li>YAAR</li>
@@ -1449,7 +1453,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="D2">
 		<tr align="center">
             <td colspan = "4">
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             08 - DHANUSH
@@ -1463,7 +1467,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>DIARY</h3>
 					<ul style="list-style-type:disc">
 						<li>ACTOR
@@ -1508,7 +1512,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="T2">
 		<tr align="center">
             <td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             09 - THANUSHAN
@@ -1522,7 +1526,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>DIARY</h3>
 					<ul style="list-style-type:disc">
 						<li>ACTOR
@@ -1575,7 +1579,7 @@
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="A">
 					<tr align="center">
 						<td colspan = "2">
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										10 - ABISHEK
@@ -1589,7 +1593,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>YAAR</h3>
 								<ul style="list-style-type:disc">
 									<li>ACTOR
@@ -1624,7 +1628,7 @@
 									</li>
 								</ul>
 							</font>
-							<br><br><br><br><br><br><br>
+							<br><br><br><br>
 						</td>
 					</tr>
 				</table>
@@ -1634,7 +1638,7 @@
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="Y">
 					<tr align="center">
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										11 - YOHAN SABARISH
@@ -1648,7 +1652,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>YAAR</h3>
 								<ul style="list-style-type:disc">
 									<li>ACTOR</li>
@@ -1693,7 +1697,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="A2">
 		<tr align="center">
             <td colspan = "4">
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             10 - ABISHEK
@@ -1707,7 +1711,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>YAAR</h3>
 					<ul style="list-style-type:disc">
 						<li>ACTOR
@@ -1750,7 +1754,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="Y2">
 		<tr align="center">
             <td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             11 - YOHAN
@@ -1764,7 +1768,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>YAAR</h3>
 					<ul style="list-style-type:disc">
 						<li>ACTOR</li>
@@ -1810,7 +1814,7 @@
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="I">
 					<tr align="center">
 						<td colspan = "2">
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										12 - IDHAYARUBAN
@@ -1824,7 +1828,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>YAAR</h3>
 								<ul style="list-style-type:disc">
 									<li>ACTOR
@@ -1836,7 +1840,7 @@
 						</td>
 
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>OTHER</h3>
 								<ul style="list-style-type:disc">
 									<li>BORN
@@ -1861,7 +1865,7 @@
 				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="S">
 					<tr align="center">
 						<td colspan = "2">
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
 										13 - SANJAYAN
@@ -1875,7 +1879,7 @@
 
 					<tr>
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">								
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">								
 								<h3>PURIYAA IRUL</h3>
 								<ul style="list-style-type:disc">
 									<li>ACTOR</li>
@@ -1885,7 +1889,7 @@
 						</td>
 					
 						<td>
-							<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>OTHER</h3>
 								<ul style="list-style-type:disc">
 									<li>BORN
@@ -1912,7 +1916,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="I2">
 		<tr align="center">
             <td colspan = "4">
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             12 - IDHAYARUBAN
@@ -1926,7 +1930,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>YAAR</h3>
 					<ul style="list-style-type:disc">
 						<li>ACTOR
@@ -1957,7 +1961,7 @@
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="S2">
 		<tr align="center">
             <td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
                             13 - SANJAYAN
@@ -1971,7 +1975,7 @@
 
 		<tr>
 			<td>
-                <font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>PURIYAA IRUL</h3>
 					<ul style="list-style-type:disc">
 						<li>ACTOR</li>

@@ -23,20 +23,24 @@
 		<tr>
 			<td>
 				<a href="index.php">
-					<button class="navigationBtn"><font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">HOME</font></button>
+					<button class="navigationBtn">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
+							HOME
+						</font>
+					</button>
 				</a>
 			</td>
 			
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">CREATIONS</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">CREATIONS</font>
 					</button>
 					
 					<div class="dropdown-content">
 						<a href="Films.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									FILMS
 								</font>
 							</button>	
@@ -44,7 +48,7 @@
 
 						<a href="Shortfilms.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									SHORTFILMS
 								</font>
 							</button>
@@ -52,7 +56,7 @@
 
 						<a href="Thedal.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS3">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									THEDAL
 								</font>
 							</button>
@@ -64,22 +68,22 @@
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">GROUP</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">GROUP</font>
 					</button>
 
 					<div class="dropdown-content">
 						<a href="Members.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									MEMBERS
 								</font>
 							</button>
 						</a>
 
-						<a href="Join.php">
+						<a href="Self_Works.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
-									JOIN US
+								<font color="#FFFFFF" class="Shadow Britannic">
+									WORKS
 								</font>
 							</button>
 						</a>
@@ -90,7 +94,7 @@
 			<td>
 				<a href="More.php">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
 							MORE
 						</font>
 					</button>
@@ -100,7 +104,7 @@
 	</table>
 	
 	<h1 align="center" id="M">
-		<font face="Gabriola" size="+4" style="text-shadow: 1px 1px 10px black; color:orange">
+		<font class="Gabriola" size="+4" style="text-shadow: 1px 1px 10px black; color:orange">
 			<u>JOIN WITH DRAGON CINEMAS</u>
 		</font>
 	</h1>
@@ -109,7 +113,7 @@
 		<tr>
 			<td>
 				<br>
-				<font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 4px gray; color:whitesmoke">
+				<font class="Adopecaslonpro" style="text-shadow: 1px 1px 4px gray; color:whitesmoke">
 					<form action="http://localhost:8080/send" method="post" enctype="application/x-www-form-urlencoded">
 						<label>FIRST NAME &emsp;</label>
 						<input type="text" placeholder="YOUR FIRST NAME" name="FirstName" required>
@@ -178,7 +182,7 @@
 	</table>
 
 	<h1 align="center" id="M2">
-		<font face="Gabriola" size="+2" style="text-shadow: 1px 1px 12px black; color:orange">
+		<font class="Gabriola" size="+2" style="text-shadow: 1px 1px 12px black; color:orange">
 			<u>JOIN WITH DRAGON CINEMAS</u>
 		</font>
 	</h1>
@@ -186,7 +190,7 @@
 	<table align="center" id="G2" style="background-color: rgba(0, 0, 0, 0.4); width: 21em" cellpadding="15px">
 		<tr>
 			<td>
-				<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 4px 2px 4px #000000">
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 4px 2px 4px #000000">
 					<form action="http://localhost:8080/send" method="post" enctype="application/x-www-form-urlencoded">
 						<label>FIRST NAME &emsp;</label>
 						<input type="text" placeholder="YOUR FIRST NAME" name="FirstName" required>

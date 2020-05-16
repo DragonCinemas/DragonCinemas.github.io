@@ -23,20 +23,24 @@
 		<tr>
 			<td>
 				<a href="index.php">
-					<button class="navigationBtn"><font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">HOME</font></button>
+					<button class="navigationBtn">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
+							HOME
+						</font>
+					</button>
 				</a>
 			</td>
 			
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">CREATIONS</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">CREATIONS</font>
 					</button>
 					
 					<div class="dropdown-content">
 						<a href="Films.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									FILMS
 								</font>
 							</button>	
@@ -44,7 +48,7 @@
 
 						<a href="Shortfilms.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									SHORTFILMS
 								</font>
 							</button>
@@ -52,7 +56,7 @@
 
 						<a href="Thedal.php">
 							<button class="SUBbtn; Shadow" id="CREATIONS3">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									THEDAL
 								</font>
 							</button>
@@ -64,13 +68,13 @@
 			<td>
 				<div class="dropdown">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">GROUP</font>
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">GROUP</font>
 					</button>
 
 					<div class="dropdown-content">
 						<a href="Members.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS1">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									MEMBERS
 								</font>
 							</button>
@@ -78,7 +82,7 @@
 
 						<a href="Self_Works.php">
 							<button class="SUBbtn; Shadow" id="MEMBERS2">
-								<font face="Britamic" color="#FFFFFF" class="Shadow">
+								<font color="#FFFFFF" class="Shadow Britannic">
 									WORKS
 								</font>
 							</button>
@@ -90,7 +94,7 @@
 			<td>
 				<a href="More.php">
 					<button class="navigationBtn">
-						<font face="Britamic" size="+1" color="#FFFFFF" class="Shadow">
+						<font size="+1" color="#FFFFFF" class="Shadow Britannic">
 							MORE
 						</font>
 					</button>
@@ -102,13 +106,13 @@
 	<br>
 	<center>
 		<h1>
-			<font face="Gabriola" style="text-shadow: 1px 1px 10px black; color:orange" size="+6">
+			<font class="Gabriola" style="text-shadow: 1px 1px 10px black; color:orange" size="+6">
 				DRAGON CINEMAS
 			</font>
 		</h1>
 
 		<p>
-			<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px black" size="+2">
+			<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px black" size="+2">
 				This Channel &amp; Website Was Made For Post Our Short Films, Films &amp; Anyother Our Creations. We Doing This For Improve Our Abilities &amp; Talents. If Anyone Want Any Helps Please Contact Us We Are Ready To Help Anyone. 
 				<br>THANK YOU...
 			</font>
@@ -118,13 +122,13 @@
 	<br>
 	<center>
 		<h2>
-			<font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 10px black; color:orange" size="+3">
+			<font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:orange" size="+3">
 				Team Members
 				<br>There Address And Contact Numbers
 			</font>
 		</h2>
 
-		<font face="Adobe Caslon Pro" color="#FFFFFF" style="text-shadow: 1px 1px 12px black" size="+1">
+		<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px black" size="+1">
 			<font style="text-shadow: 1px 1px 10px black; color:burlywood" size="+2">GOWSALJAN</font>
 			<br>155/4, Sea Street,
 			<br>Negombo,
@@ -151,7 +155,7 @@
 		<br>
 		
 		<br><br>
-		<font face="Adobe Caslon Pro" style="text-shadow: 1px 1px 10px black; color:orange" size="+3">
+		<font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:orange" size="+3">
 			<h3>Social Media Sites</h3>
 			<a href="https://www.youtube.com/channel/UCb7JsASqtPWAjJ9_njMWDJw?view_as=subscriber" class="aLink">
 				<img src="Images/youtube.png" width="75em" height="75em">

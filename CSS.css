@@ -395,7 +395,17 @@ button:hover {
 	display: block;
 }
 
-.font_face {
+.Gabriola {
 	font-family: myFirstFont;
 	src: url(fonts/gabriola.woff);
+}
+
+.Britannic {
+	font-family: myFirstFont;
+	src: url(fonts/Britannic.ttf);
+}
+
+.Adopecaslonpro {
+	font-family: myFirstFont;
+	src: url(fonts/Adobe_Caslon_Pro.ttf);
 }
