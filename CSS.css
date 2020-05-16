@@ -394,3 +394,8 @@ button:hover {
 	text-decoration: none;
 	display: block;
 }
+
+.font_face {
+	font-family: myFirstFont;
+	src: url(fonts/gabriola.woff);
+}

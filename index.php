@@ -101,7 +101,7 @@
 	
 	<br>
 	<h1>
-		<center><b><i><font face="Gabriola" style="text-shadow: 1px 1px 10px black; color:orange">--- New Updates ---</font></i></b></center>
+		<center><b><i><font style="text-shadow: 1px 1px 10px black; color:orange" class="font_face">--- New Updates ---</font></i></b></center>
 	</h1>
 	
 	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px">
