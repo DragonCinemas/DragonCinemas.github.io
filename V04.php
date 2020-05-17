@@ -9,8 +9,8 @@
 	
 </head>
 <body style="background-color:black">
-    <video width="100%" controls autoplay loop>
+    <center><video width="100%" controls autoplay loop>
   		<source src="Videos/Thedal.mkv">
-	</video>
+	</video></center>
 </body>
 </html>
