@@ -108,7 +108,7 @@
 		<center><b><i><font style="text-shadow: 1px 1px 10px black; color:orange" class="Gabriola">--- WORKS ---</font></i></b></center>
 	</h1>
 	
-	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="M">
+	<table align="center" border="0" width="1075em" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="M">
 		<tr align="center">
             <td colspan = "4">
                 <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
@@ -189,7 +189,7 @@
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
 						<li>
-							<a href="Videos/MCreations.mkv" style="text-decoration:none">
+							<a href="V01.php" style="text-decoration:none">
 								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									M CREATIONS LOGO
 								</font>
@@ -198,7 +198,7 @@
 					
 						<li>DC LOGOS
 							<dd>
-								<a href="Videos/DCinemas_01.mkv" style="text-decoration:none">
+								<a href="V02.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										VERSION 1
 									</font>
@@ -206,7 +206,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/DCinemas.mkv" style="text-decoration:none">
+								<a href="V03.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										VERSION 2
 									</font>
@@ -215,7 +215,7 @@
 						</li>
 
 						<li>
-							<a href="Videos/Thedal.mkv" style="text-decoration:none">
+							<a href="V04.php" style="text-decoration:none">
 								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									THEDAL LOGO
 								</font>
@@ -224,7 +224,7 @@
 
 						<li>EXTRA
 							<dd>
-								<a href="Videos/Iam_Watching.mkv" style="text-decoration:none">
+								<a href="V05.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										IAM WATCHING
 									</font>
@@ -232,7 +232,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/WhiteCobra.mkv" style="text-decoration:none">
+								<a href="V06.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										WHITE COBRA
 									</font>
@@ -240,7 +240,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/Blaster.mkv" style="text-decoration:none">
+								<a href="V07.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										BLASTER
 									</font>
@@ -248,7 +248,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/Write_On.mkv" style="text-decoration:none">
+								<a href="V08.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										WRITE-ON
 									</font>
@@ -256,7 +256,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/Text-In.mkv" style="text-decoration:none">
+								<a href="V09.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										TEXT-IN
 									</font>
@@ -264,7 +264,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/Text-Effect.mkv" style="text-decoration:none">
+								<a href="V10.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										TEXT-EFFECT
 									</font>
@@ -395,7 +395,7 @@
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
 						<li>
-							<a href="Videos/MCreations.mkv" style="text-decoration:none">
+							<a href="V01.php" style="text-decoration:none">
 								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									M CREATIONS LOGO
 								</font>
@@ -404,7 +404,7 @@
 					
 						<li>DC LOGOS
 							<dd>
-								<a href="Videos/DCinemas_01.mkv" style="text-decoration:none">
+								<a href="V02.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										VERSION 1
 									</font>
@@ -412,7 +412,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/DCinemas.mkv" style="text-decoration:none">
+								<a href="V03.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										VERSION 2
 									</font>
@@ -421,7 +421,7 @@
 						</li>
 
 						<li>
-							<a href="Videos/Thedal.mkv" style="text-decoration:none">
+							<a href="V04.php" style="text-decoration:none">
 								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 									THEDAL LOGO
 								</font>
@@ -430,7 +430,7 @@
 
 						<li>EXTRA
 							<dd>
-								<a href="Videos/Iam_Watching.mkv" style="text-decoration:none">
+								<a href="V05.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										IAM WATCHING
 									</font>
@@ -438,7 +438,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/WhiteCobra.mkv" style="text-decoration:none">
+								<a href="V06.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										WHITE COBRA
 									</font>
@@ -446,7 +446,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/Blaster.mkv" style="text-decoration:none">
+								<a href="V07.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										BLASTER
 									</font>
@@ -454,7 +454,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/Write_On.mkv" style="text-decoration:none">
+								<a href="V08.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										WRITE-ON
 									</font>
@@ -462,7 +462,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/Text-In.mkv" style="text-decoration:none">
+								<a href="V09.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										TEXT-IN
 									</font>
@@ -470,7 +470,7 @@
 							</dd>
 
 							<dd>
-								<a href="Videos/Text-Effect.mkv" style="text-decoration:none">
+								<a href="V10.php" style="text-decoration:none">
 									<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 										TEXT-EFFECT
 									</font>
@@ -590,6 +590,7 @@
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
 						<li>VGJAN VISUALS FACTORY LOGO</li>
+						<li>FRIENDS FOREVER</li>
                     </ul>
 				</font>
 				<br><br><br><br><br><br>

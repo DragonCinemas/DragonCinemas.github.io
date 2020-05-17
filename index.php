@@ -201,10 +201,10 @@
 	
 	<br><br><br>
 	<center>
- 		<video width="360" height="200" controls loop>
+ 		<video width="360" height="200" controls autoplay loop>
   			<source src="Videos/DCinemas.mkv">
 		</video>
-		<video width="360" height="200" controls loop>
+		<video width="360" height="200" controls autoplay loop>
   			<source src="Videos/MCreations.mkv">
 		</video>
 	</center>
