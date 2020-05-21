@@ -279,8 +279,20 @@
 				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
-						<li>THIGILPPAYANAM</li>
-						<li>YAAR</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									THIGIL PAYANAM
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									YAAR
+								</font>
+							</a>
+						</li>
 						<li>
 							<a href="Scripts/PuriyaaIrul_Script.pdf" style="text-decoration:none">
 								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
@@ -288,7 +300,13 @@
 								</font>
 							</a>
 						</li>
-						<li>JK CHAPTERS</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									JK - CHAPTERS
+								</font>
+							</a>
+						</li>
                     </ul>
 				</font>
 				<br><br><br><br><br><br><br><br>
@@ -298,11 +316,41 @@
 				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>LYRICS</h3>
 					<ul style="list-style-type:disc">
-						<li>WHERE'S HE - YAAR</li>
-						<li>GAME'S ON - YAAR</li>
-						<li>NEVER LOSE - YAAR</li>
-						<li>YAARO AVAN</li>
-						<li>UNAITHEDUM</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									WHERE'S HE - YAAR
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									GAME'S ON - YAAR
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									NEVER LOSE - YAAR
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									YAARO AVAN
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									UNAITHEDUM
+								</font>
+							</a>
+						</li>
                     </ul>
 				</font>
 				<br><br><br><br><br><br><br>
@@ -481,8 +529,20 @@
 
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
-						<li>THIGILPPAYANAM</li>
-						<li>YAAR</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									THIGIL PAYANAM
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									YAAR
+								</font>
+							</a>
+						</li>
 						<li>
 							<a href="Scripts/PuriyaaIrul_Script.pdf" style="text-decoration:none">
 								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
@@ -490,16 +550,52 @@
 								</font>
 							</a>
 						</li>
-						<li>JK CHAPTERS</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									JK - CHAPTERS
+								</font>
+							</a>
+						</li>
                     </ul>
 
 					<h3>LYRICS</h3>
 					<ul style="list-style-type:disc">
-						<li>WHERE'S HE - YAAR</li>
-						<li>GAME'S ON - YAAR</li>
-						<li>NEVER LOSE - YAAR</li>
-						<li>YAARO AVAN</li>
-						<li>UNAITHEDUM</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									WHERE'S HE - YAAR
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									GAME'S ON - YAAR
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									NEVER LOSE - YAAR
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									YAARO AVAN
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									UNAITHEDUM
+								</font>
+							</a>
+						</li>
                     </ul>
 					
 					<h3>OTHER</h3>
@@ -560,7 +656,7 @@
                         <li>ACTOR</li>
 					</ul>
 				</font>
-				<br><br>
+				<br><br><br>
 			</td>
 
 			<td>
@@ -580,7 +676,7 @@
 						<li>DETAILS CHECKER</li>
                     </ul>
 				</font>
-				<br><br><br>
+				<br><br><br><br>
 			</td>
 		</tr>
 
@@ -589,8 +685,20 @@
 				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
-						<li>VGJAN VISUALS FACTORY LOGO</li>
-						<li>FRIENDS FOREVER</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									VGJAN VISUALS FACTORY LOGO
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									FRIENDS FOREVER
+								</font>
+							</a>
+						</li>
                     </ul>
 				</font>
 				<br><br><br><br><br><br>
@@ -607,10 +715,16 @@
 								</font>
 							</a>
 						</li>
-						<li>OVIYAM</li>
+						<li>
+							<a href="Images/Not_now2.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									OVIYAM
+								</font>
+							</a>
+						</li>
                     </ul>
 				</font>
-				<br><br><br><br><br><br>
+				<br><br><br><br><br><br><br>
 			</td>
 
 			<td>
@@ -630,6 +744,7 @@
 						</li>
                     </ul>
 				</font>
+				<br><br><br>
 			</td>
 		</tr>
 	</table>
@@ -685,13 +800,38 @@
 				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
-						<li>VGJAN VISUALS FACTORY LOGO</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									VGJAN VISUALS FACTORY LOGO
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									FRIENDS FOREVER
+								</font>
+							</a>
+						</li>
                     </ul>
 
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
-						<li>DIARY</li>
-						<li>OVIYAM</li>
+						<li>
+							<a href="Scripts/DiaryScript.pdf" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									DIARY
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									OVIYAM
+								</font>
+							</a>
+						</li>
                     </ul>
 
 					<h3>OTHER</h3>
@@ -1424,9 +1564,27 @@
 							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h3>STORIES</h3>
 								<ul style="list-style-type:disc">
-									<li>YAAR</li>
-									<li>ANAATHAI</li>
-									<li>666</li>
+									<li>
+										<a href="Images/Not_now2.png" style="text-decoration:none">
+											<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+												YAAR
+											</font>
+										</a>
+									</li>
+									<li>
+										<a href="Images/Not_now2.png" style="text-decoration:none">
+											<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+												ANAATHAI
+											</font>
+										</a>
+									</li>
+									<li>
+										<a href="Images/Not_now2.png" style="text-decoration:none">
+											<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+												666
+											</font>
+										</a>
+									</li>
                    				</ul>	
 
 								<h3>OTHER</h3>
@@ -1549,9 +1707,27 @@
 
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
-						<li>YAAR<li>
-						<li>ANAATHAI<li>
-						<li>666<li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									YAAR
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									ANAATHAI
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									666
+								</font>
+							</a>
+						</li>
 					</ul>
 
 					<h3>OTHER</h3>
@@ -1610,8 +1786,20 @@
 
 								<h3>STORIES</h3>
 								<ul style="list-style-type:disc">
-									<li>SUWARNAMANI</li>
-									<li>BLOOD CHAPTERS</li>
+									<li>
+										<a href="Images/Not_now2.png" style="text-decoration:none">
+											<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+												SUWARNAMANI
+											</font>
+										</a>
+									</li>
+									<li>
+										<a href="Images/Not_now2.png" style="text-decoration:none">
+											<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+												BLOOD - CHAPTERS
+											</font>
+										</a>
+									</li>
 								</ul>
 								
 								<h3>OTHER</h3>
@@ -1728,8 +1916,20 @@
 
 					<h3>STORIES</h3>
 					<ul style="list-style-type:disc">
-						<li>SUWARNAMANI</li>
-						<li>BLOOD CHAPTERS</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									SUWARNAMANI
+								</font>
+							</a>
+						</li>
+						<li>
+							<a href="Images/Not_now.png" style="text-decoration:none">
+								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+									BLOOD - CHAPTERS
+								</font>
+							</a>
+						</li>
 					</ul>
 								
 					<h3>OTHER</h3>
