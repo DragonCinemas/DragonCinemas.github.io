@@ -144,6 +144,10 @@
 	#s {
 		display: none;
 	}
+
+	#SL {
+		display: none;
+	}
 }
 
 @media screen and (max-width:1920px) {
@@ -310,6 +314,10 @@
 	}
 	
 	#s2 {
+		display: none;
+	}
+
+	#SL {
 		display: none;
 	}
 }

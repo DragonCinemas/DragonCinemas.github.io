@@ -1226,6 +1226,92 @@
 			</td>
 		</tr>
 	</table>
+
+	<br>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SL">
+		<tr>
+			<td>
+				<img src="Images/SL.jpg" alt="Sulakshan"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+			
+			<td width="500em">
+				<p>
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						<h2>
+							<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+								14 - SULAKSHAN
+							</font>
+						</h2>
+						
+						<h3>SKILLS</h3>
+						
+						<ul style="list-style-type:disc">
+							<li>DIRECTOR</li>
+							<li>WRITTER</li>
+							<li>ACTOR</li>
+							<li>SINGER</li>
+							<li>CRICKETER</li>
+							<li>FOOTBALL PLAYER</li>
+						</ul>
+					</font>
+
+					<center><br>
+					<a href="Self_Works.php#SL" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
+				</p>
+			</td>
+		</tr>
+	</table>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SL2">
+		<tr>
+			<td>
+				<h2>
+					<font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood">
+						14 - SULAKSHAN
+					</font>
+				</h2>
+			</td>
+		</tr>
+	
+		<tr>
+			<td align="center">
+				<img src="Images/SL.jpg" alt="Sulakshan"  width="190" height="190" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+		
+		<tr>
+			<td width="350em">
+				<p>
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						<h3>SKILLS</h3>
+						
+						<ul style="list-style-type:disc">
+							<li>DIRECTOR</li>
+							<li>WRITTER</li>
+							<li>ACTOR</li>
+							<li>SINGER</li>
+							<li>CRICKETER</li>
+							<li>FOOTBALL PLAYER</li>
+						</ul>
+					</font>
+
+					<center><br>
+					<a href="Self_Works.php#SL2" class="aLink">
+						<button><b><i>
+							<font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">
+								More Details
+							</font>
+						</i></b></button>
+					</a></center>
+				</p>
+			</td>
+		</tr>
+	</table>
 	
 	<br><br><br><br>
 	<hr color="#FFB600" size="6">

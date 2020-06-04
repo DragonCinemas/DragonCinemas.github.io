@@ -2201,6 +2201,125 @@
 		</tr>
 	</table>
 
+	<br>
+	<table align="center" border="0" width="1095em" id="m">
+		<tr>
+			<td>
+				<table align="center" width="525em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SL">
+					<tr align="center">
+						<td colspan = "2">
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h2>
+									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
+										14 - SULAKSHAN
+									</font>
+								</h2>
+							</font>
+							
+							<img src="Images/SL.jpg" alt="Sulakshan"  width="290" height="290" style="box-shadow: 6px 2px 8px #000000">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>CORONA VATHAIGAL</h3>
+								<ul style="list-style-type:disc">
+									<li>DIRECTOR</li>
+									<li>WRITTER</li>
+									<li>SOUND MIX</li>
+									<li>ACTOR</li>
+								</ul>
+							</font>
+
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>CORONA VATHAIGAL 2</h3>
+								<ul style="list-style-type:disc">
+									<li>DIRECTOR</li>
+									<li>WRITTER</li>
+									<li>SOUND MIX</li>
+									<li>ACTOR</li>
+								</ul>
+							</font>
+						</td>
+
+						<td>
+							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+								<h3>OTHER</h3>
+								<ul style="list-style-type:disc">
+									<li>BORN
+										<dd>16TH<br>JANUARY 2005</dd>
+									</li>
+
+									<li>LIVE IN
+										<dd>NEGOMBO</dd>
+									</li>
+									
+									<li>STUDYED
+										<dd>WIJAYARATNAM H.C.C</dd>
+									</li>
+								</ul>
+							</font>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="40px" id="SL2">
+		<tr align="center">
+            <td colspan = "4">
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+                    <h2>
+                        <font style="text-shadow: 1px 1px 10px black; color:burlywood">
+                            14 - SULAKSHAN
+                        </font>
+                    </h2>
+				</font>
+				
+				<img src="Images/SL.jpg" alt="Sulakshan"  width="200" height="200" style="box-shadow: 6px 2px 8px #000000">
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>CORONA VATHAIGAL</h3>
+					<ul style="list-style-type:disc">
+						<li>DIRECTOR</li>
+						<li>WRITTER</li>
+						<li>SOUND MIX</li>
+						<li>ACTOR</li>
+					</ul>
+
+					<h3>CORONA VATHAIGAL 2</h3>
+					<ul style="list-style-type:disc">
+						<li>DIRECTOR</li>
+						<li>WRITTER</li>
+						<li>SOUND MIX</li>
+						<li>ACTOR</li>
+					</ul>
+
+					<h3>OTHER</h3>
+					<ul style="list-style-type:disc">
+						<li>BORN
+							<dd>16TH<br>JANUARY 2005</dd>
+						</li>
+
+						<li>LIVE IN
+							<dd>NEGOMBO</dd>
+						</li>
+									
+						<li>STUDYED
+							<dd>WIJAYARATNAM H.C.C</dd>
+						</li>
+					</ul>
+				</font>
+			</td>
+		</tr>
+	</table>
+
     <br><br><br><br>
 	<hr color="#FFB600" size="6">
 	<hr color="#FF6E00" size="6">
