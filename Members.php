@@ -1239,7 +1239,7 @@
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<h2>
 							<font style="text-shadow: 1px 1px 10px black; color:burlywood">
-								14 - SULAKSHAN
+								14 - SULAKSHAN (CHOCOLATE BISCUIT CLIPS)
 							</font>
 						</h2>
 						
@@ -1272,7 +1272,7 @@
 			<td>
 				<h2>
 					<font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood">
-						14 - SULAKSHAN
+						14 - SULAKSHAN (CHOCOLATE BISCUIT CLIPS)
 					</font>
 				</h2>
 			</td>

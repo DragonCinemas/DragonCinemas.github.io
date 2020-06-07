@@ -115,8 +115,6 @@
 
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
 						FRIENDSHIP | THRILL | WORKING GOING ON
-						<br>RATE : ___&emsp;&ensp;MAX.POINTS : ___&emsp;&ensp;MIN.POINTS : ___
-
 					</font></small>
 
 					<br><br><br>
@@ -187,8 +185,6 @@
 
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
 						FRIENDSHIP | THRILL | WORKING GOING ON
-						<br>RATE : ___ MAX.POINTS : ___ MIN.POINTS : ___
- 
 					</font></small>
 
 					<br><br><br>
@@ -204,7 +200,7 @@
 
 						<br><br>MOTION POSTER : 
 						<a href="http://m.youtube.com/watch?v=LrxRfFWIIYg" class="aLink">http://m.youtube.com/watch?v=LrxRfFWIIYg</a>
-						<br>OFFICIAL TEASER : 
+						<br><br>OFFICIAL TEASER : 
 						<a href="http://youtu.be/avTpZjVsRQc" class="aLink">http://youtu.be/avTpZjVsRQc</a>
 
 						<br><br>

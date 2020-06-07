@@ -108,29 +108,57 @@
 		<center><b><i><font style="text-shadow: 1px 1px 10px black; color:orange" class="Gabriola">--- New Updates ---</font></i></b></center>
 	</h1>
 	
-	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px">
+	<table align="center" width="1185em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px" id="m">
 		<tr>
 			<td>
 				<p>
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<center>
-							<h3><u><font style="text-shadow: 1px 1px 10px black; color:burlywood">01 - PURIYAA IRUL Short Film Was Released.</font></u></h3>
+							<h3><u><font style="text-shadow: 1px 1px 10px black; color:burlywood">01 - CORONA VATHAIGAL 2 Was Released.</font></u></h3>
 							<font>
-								It's a short film producing by <b>DRAGON CINEMAS &amp; M CREATIONS</b>. This is our third creations and our second short film. It's was released in 13th April 2020 <br>afternoon at 12.30 p.m. This is not just short film, This is a tester of a brain for our all friends(ALL SUBCRIBERS). This kind of style story was written &amp; directed by <br>our director MADUSHANTH. If anyone watched this short film, He can know about his brain level &amp; Also he can know how he watching every movies by his own-self.
+								It's a short film producing by <b>M CREATIONS</b>. This is  the second short film of our CHOCOLATE BISCUIT CLIPS. It's was released in 03th JUNE 2020 <br>evening at 06.00 p.m. This was made for fun to get a cool mode.
 								<b>
 								<br><br>
 								Director :- 
-								<br>MADUSHANTH
-								<br><br>
-								Music Director :- 
-								<br>JOHNSAN JEEWA
+								<br>SULAKSHAN
 								<br><br>
 								Casts :- 
-								<br>SANJAY , 
-								<br>GOWSALJAN
+								<br>SULAKSHAN , 
+								<br>LIVINTON ,
+								<br>VITHUSHAN ,
+								<br>ABI
 								</b>
 								<br><br>
-								<font size="+1"><a href="https://www.youtube.com/watch?v=OW4KGWADzPk" class="aLink">- Click Here To Watch It -</a></font>
+								<font size="+1"><a href="https://youtu.be/CXHou0fbNy4" class="aLink">- Click Here To Watch It -</a></font>
+							</font>
+						</center>
+					</font>
+				</p>
+			</td>
+		</tr>
+	</table>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px" id="m2">
+		<tr>
+			<td>
+				<p>
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						<center>
+							<h3><u><font style="text-shadow: 1px 1px 10px black; color:burlywood">01 - CORONA VATHAIGAL 2 Was Released.</font></u></h3>
+							<font>
+								It's a short film producing by <b>M CREATIONS</b>. This is  the second short film of our CHOCOLATE BISCUIT CLIPS. It's was released in 03th JUNE 2020 evening at 06.00 p.m. This was made for fun to get a cool mode.
+								<b>
+								<br><br>
+								Director :- 
+								<br>SULAKSHAN
+								<br><br>
+								Casts :- 
+								<br>SULAKSHAN , 
+								<br>LIVINTON ,
+								<br>VITHUSHAN ,
+								<br>ABI
+								</b>
+								<br><br>
+								<font size="+1"><a href="https://youtu.be/CXHou0fbNy4" class="aLink">- Click Here To Watch It -</a></font>
 							</font>
 						</center>
 					</font>
@@ -140,29 +168,57 @@
 	</table>
 	
 	<br>
-	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px">
+	<table align="center" width="1185em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px" id="m">
 		<tr>
 			<td>
 				<p>
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<center>
-							<h3><u><font style="text-shadow: 1px 1px 10px black; color:burlywood">02 - PURIYAA IRUL's Official Teaser &amp; Official Poster Was Released.</font></u></h3>
+							<h3><u><font style="text-shadow: 1px 1px 10px black; color:burlywood">02 - CORONA VATHAIGAL 2 Official Trailer Was Released.</font></u></h3>
 							<font>
-								<b>DRAGON CINEMAS &amp; M CREATIONS</b> proudly presents a new short film named as <b>"PURIYAA IRUL"</b>. It's official teaser and poster was released <br>in 21st March 2020 morning at 6 a.m. This is a diffrenent kind of idea with a different kind of screenplay by our DRAGON CINEMAS. This short film was made for test <br>our friends(ALL SUBSCRIBERS), how they read a film by their own brain.
+								<b>CHOCOLATE BISCUIT CLIPS &amp; M CREATIONS</b> proudly presents <b>CORONA VATHAIGAL 2</b>. It's official teaser was released in 29st May 2020 evening <br>at 6 p.m.
 								<b>
 								<br><br>
 								Director :- 
-								<br>MADUSHANTH
-								<br><br>
-								Music Director :- 
-								<br>JOHNSAN JEEWA
+								<br>SULAKSHAN
 								<br><br>
 								Casts :- 
-								<br>SANJAY , 
-								<br>GOWSALJAN
+								<br>SULAKSHAN , 
+								<br>LIVINTON ,
+								<br>VITHUSHAN ,
+								<br>ABI
 								</b>
 								<br><br>
-								<font size="+1"><a href="http://youtu.be/qtmS7BlAO8U" class="aLink">- Click Here To Watch It -</a></font>
+								<font size="+1"><a href="http://youtu.be/-9Hx8qYfB60" class="aLink">- Click Here To Watch It -</a></font>
+							</font>
+						</center>
+					</font>
+				</p>
+			</td>
+		</tr>
+	</table>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px" id="m2">
+		<tr>
+			<td>
+				<p>
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						<center>
+							<h3><u><font style="text-shadow: 1px 1px 10px black; color:burlywood">02 - CORONA VATHAIGAL 2 Official Trailer Was Released.</font></u></h3>
+							<font>
+								<b>CHOCOLATE BISCUIT CLIPS &amp; M CREATIONS</b> proudly presents <b>CORONA VATHAIGAL 2</b>. It's official teaser was released in 29st May 2020 evening at 6 p.m.
+								<b>
+								<br><br>
+								Director :- 
+								<br>SULAKSHAN
+								<br><br>
+								Casts :- 
+								<br>SULAKSHAN , 
+								<br>LIVINTON ,
+								<br>VITHUSHAN ,
+								<br>ABI
+								</b>
+								<br><br>
+								<font size="+1"><a href="http://youtu.be/-9Hx8qYfB60" class="aLink">- Click Here To Watch It -</a></font>
 							</font>
 						</center>
 					</font>
@@ -172,25 +228,55 @@
 	</table>
 	
 	<br>
-	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px">
+	<table align="center" width="1185em" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px" id="m">
 		<tr>
 			<td>
 				<p>
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						<center>
-							<h3><u><font style="text-shadow: 1px 1px 10px black; color:burlywood">03 - THEDAL Video-01 Was Released.</font></u></h3>
+							<h3><u><font style="text-shadow: 1px 1px 10px black; color:burlywood">03 - CORONA VATHAIGAL 1 Was Released.</font></u></h3>
 							<font>
-								<b>DRAGON CINEMAS &amp; M CREATIONS</b> proudly presenting a new programme named as<b>"THEDAL"</b>. It's was released in 07th March 2020 morning at 6 a.m. <br> &nbsp;This programme idea was a messegable convey by our DRAGON CINEMAS. And also made for improve our general knowledge &amp; Education. Our first messages about <br> "THEVATTA GAAVATHA PILLAIYAAR KOVIL" in Katana. We collect all the details by interviewed some peoples surrounding that kovil <br>and mixed our own collected details about this kovil.
+								<b>CHOCOLATE BISCUIT CLIPS</b> proudly presenting a new shortfilm named as<b>"CORONA VATHAIGAL"</b>. It's the first shortfilm and the first creation to our CHOCOLATE BISCUIT CLIPS. It's was released in 08th May 2020 evening at 6 p.m. This was made to get fun during quarantine.
 								<b>
 								<br><br>
-								Video-01 Team Members :-
-								<br>ABISHEK ,
-								<br>GOWSALJAN ,
-								<br>MADUSHANTH ,
-								<br>THANUSHAN
+								Director :- 
+								<br>SULAKSHAN
+								<br><br>
+								Casts :- 
+								<br>SULAKSHAN , 
+								<br>LIVINTON ,
+								<br>VITHUSHAN
 								</b>
 								<br><br>
-								<font size="+1"><a href="http://youtu.be/6TMM1JF57y8" class="aLink">- Click Here To Watch It -</a></font>
+								<font size="+1"><a href="https://youtu.be/JjsEXNY2RJM" class="aLink">- Click Here To Watch It -</a></font>
+							</font>
+						</center>
+					</font>
+				</p>
+			</td>
+		</tr>
+	</table>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="50px" id="m2">
+		<tr>
+			<td>
+				<p>
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						<center>
+							<h3><u><font style="text-shadow: 1px 1px 10px black; color:burlywood">03 - CORONA VATHAIGAL 1 Was Released.</font></u></h3>
+							<font>
+								<b>CHOCOLATE BISCUIT CLIPS</b> proudly presenting a new shortfilm named as<b>"CORONA VATHAIGAL"</b>. It's the first shortfilm and the first creation to our CHOCOLATE BISCUIT CLIPS. It's was released in 08th May 2020 evening at 6 p.m. This was made to get fun during quarantine.
+								<b>
+								<br><br>
+								Director :- 
+								<br>SULAKSHAN
+								<br><br>
+								Casts :- 
+								<br>SULAKSHAN , 
+								<br>LIVINTON ,
+								<br>VITHUSHAN
+								</b>
+								<br><br>
+								<font size="+1"><a href="https://youtu.be/JjsEXNY2RJM" class="aLink">- Click Here To Watch It -</a></font>
 							</font>
 						</center>
 					</font>
@@ -206,6 +292,9 @@
 		</video>
 		<video width="360" height="200" controls autoplay loop>
   			<source src="Videos/MCreations.mkv">
+		</video>
+		<video width="360" height="200" controls autoplay loop>
+  			<source src="Videos/CB.mkv">
 		</video>
 	</center>
 	

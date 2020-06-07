@@ -115,8 +115,6 @@
 
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
 						18 MIN 35 SEC | CASUAL | PRACTISE
-						<br>RATE : ___&emsp;&ensp;MAX.POINTS : ___&emsp;&ensp;MIN.POINTS : ___
-
 					</font></small>
 
 					<br><br><br>
@@ -186,8 +184,6 @@
 
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
 						18 MIN 35 SEC | CASUAL | PRACTISE
-						<br>RATE : ___ MAX.POINTS : ___ MIN.POINTS : ___
-
 					</font></small>
 
 					<br><br><br>
@@ -204,7 +200,7 @@
 
 						<br><br>OFFICIAL TRAILER : 
 						<a href="http://youtu.be/b9phCjKOd3g" class="aLink">http://youtu.be/b9phCjKOd3g</a>
-						<br>FULL SHORT FILM : 
+						<br><br>FULL SHORT FILM : 
 						<a href="http://youtu.be/mlCRLZIqekI" class="aLink">http://youtu.be/mlCRLZIqekI</a>
 
 						<br><br>

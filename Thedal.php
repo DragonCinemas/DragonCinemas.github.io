@@ -120,7 +120,6 @@
 				<p>
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						07 MIN 13 SEC | MESSAGABLE CONVEY
-						<br>RATE : ___&emsp;&nbsp;MAX.POINT : ___&emsp;&nbsp;MIN.POINTS : ___
 					</font></small>
 
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
@@ -158,7 +157,6 @@
 				<p>
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						07 MIN 13 SEC | MESSAGABLE CONVEY
-						<br>RATE : ___<br>MAX.POINT : ___<br>MIN.POINTS : ___
 					</font></small>
 
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">

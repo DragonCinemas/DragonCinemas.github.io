@@ -173,7 +173,7 @@
                 <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>THEDAL 01</h3>
 					<ul style="list-style-type:disc">
-						<li>DETAILS COLLECTER</li>
+						<li>DETAILS COLLECTOR</li>
 						<li>PHOTOGRAPHER</li>
                         <li>EDITOR</li>
                         <li>VOICE ACTOR</li>
@@ -182,6 +182,32 @@
 				<br><br><br><br>
 			</td>
 		</tr>
+
+		<tr>
+			<td>
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>CORONA VATHAIGAL 2</h3>
+					<ul style="list-style-type:disc">
+						<li>PRODUCER</li>
+                        <li>EDITOR</li>
+                    </ul>
+					<br><br>
+				</font>
+			</td>
+
+			<td>
+                <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>THEDAL 02</h3>
+					<ul style="list-style-type:disc">
+						<li>DETAILS COLLECTOR</li>
+						<li>PHOTOS COLLECTOR</li>
+                        <li>AUDIO EDITOR</li>
+                        <li>VOICE ACTOR</li>
+                    </ul>
+				</font>
+			</td>
+		</tr>
+
 
 		<tr>
 			<td>
@@ -428,9 +454,23 @@
 
 					<h3>THEDAL 01</h3>
 					<ul style="list-style-type:disc">
-						<li>DETAILS COLLECTER</li>
+						<li>DETAILS COLLECTOR</li>
 						<li>PHOTOGRAPHER</li>
                         <li>EDITOR</li>
+                        <li>VOICE ACTOR</li>
+					</ul>
+					
+					<h3>CORONA VATHAIGAL 2</h3>
+					<ul style="list-style-type:disc">
+						<li>PRODUCER</li>
+                        <li>EDITOR</li>
+                    </ul>
+
+					<h3>THEDAL 02</h3>
+					<ul style="list-style-type:disc">
+						<li>DETAILS COLLECTOR</li>
+						<li>PHOTOS COLLECTOR</li>
+                        <li>AUDIO EDITOR</li>
                         <li>VOICE ACTOR</li>
                     </ul>
 				</font>
@@ -683,12 +723,24 @@
 		<tr>
 			<td>
 				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>THEDAL 02</h3>
+					<ul style="list-style-type:disc">
+						<li>DETAILS CHECKER</li>
+						<li>VIDEO EDITOR</li>
+                    </ul>
+				</font>
+			</td>
+		</tr>
+
+		<tr>
+			<td>
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>VIDEO EDTING</h3>
 					<ul style="list-style-type:disc">
 						<li>
 							<a href="Images/Not_now2.png" style="text-decoration:none">
 								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
-									VGJAN VISUALS FACTORY LOGO
+									VGJAN VISUALS LOGO
 								</font>
 							</a>
 						</li>
@@ -791,6 +843,12 @@
 					<ul style="list-style-type:disc">
 						<li>DETAILS CHECKER</li>
                     </ul>
+
+					<h3>THEDAL 02</h3>
+					<ul style="list-style-type:disc">
+						<li>DETAILS CHECKER</li>
+						<li>VIDEO EDITOR</li>
+                    </ul>
 				</font>
 			</td>
 		</tr>
@@ -803,7 +861,7 @@
 						<li>
 							<a href="Images/Not_now.png" style="text-decoration:none">
 								<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
-									VGJAN VISUALS FACTORY LOGO
+									VGJAN VISUALS LOGO
 								</font>
 							</a>
 						</li>
@@ -881,7 +939,6 @@
 						</li>
                     </ul>
 				</font>
-				<br><br><br><br><br><br><br><br><br><br><br><br>
 			</td>
 
 			<td>
@@ -890,8 +947,8 @@
                     <ul style="list-style-type:disc">
                         <li>PRODUCER</li>
 					</ul>
+					<br><br><br>
 				</font>
-				<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 			</td>
 
 			<td>
@@ -903,11 +960,24 @@
 							<dd>HERO - "SATHIYAN"</dd>
 						</li>
 					</ul>
+					<br>
 				</font>
-				<br><br><br><br><br><br><br><br><br><br><br><br><br>
 			</td>
 
 			<td>
+				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+					<h3>THEDAL 02</h3>
+					<ul style="list-style-type:disc">
+						<li>DETAILS COLLECTOR</li>
+						<li>DETAILS CHECKER</li>
+					</ul>
+					<br><br>
+				</font>
+			</td>
+		</tr>
+
+		<tr>
+			<td colspan = "4">
 				<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 					<h3>OTHER</h3>
 					<ul style="list-style-type:disc">
@@ -924,9 +994,9 @@
 						</li>
 
 						<li>SPECIAL COMPETITIONS
-							<dd>CARNATIC/MUSLIM<br> ALL ISLAND MUSIC<br> COMPETITION<br> 2018 - 2ND PLACE</dd>
+							<dd>CARNATIC/MUSLIM ALL ISLAND MUSIC COMPETITION 2018 - 2ND PLACE</dd>
 							<br>
-							<dd>PANNISAI NATIONAL<br> CREATIVITY SPECIAL<br> COMPETITION<br> 2018 - 2ND PLACE</dd>
+							<dd>PANNISAI NATIONAL CREATIVITY SPECIAL COMPETITION 2018 - 2ND PLACE</dd>
 						</li>
                     </ul>
 				</font>
@@ -971,6 +1041,12 @@
 						<li>ACTOR
 							<dd>HERO - "SATHIYAN"</dd>
 						</li>
+					</ul>
+
+					<h3>THEDAL 02</h3>
+					<ul style="list-style-type:disc">
+						<li>DETAILS COLLECTOR</li>
+						<li>DETAILS CHECKER</li>
 					</ul>
 
 					<h3>OTHER</h3>
@@ -2211,7 +2287,7 @@
 							<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 								<h2>
 									<font style="text-shadow: 1px 1px 10px black; color:burlywood">
-										14 - SULAKSHAN
+										14 - SULAKSHAN<br>(CHOCOLATE BISCUIT CLIPS)
 									</font>
 								</h2>
 							</font>
@@ -2241,6 +2317,7 @@
 									<li>ACTOR</li>
 								</ul>
 							</font>
+							<br><br><br><br><br><br><br><br>
 						</td>
 
 						<td>
@@ -2258,6 +2335,16 @@
 									<li>STUDYED
 										<dd>WIJAYARATNAM H.C.C</dd>
 									</li>
+
+									<li>SPECIAL
+										<dd>SINGLE MUSIC COMPETITION IN 2019 - 2ND PLACE IN WESTERN PROVINCE LEVEL</dd>
+										<br><dd>GROUP MUSIC COMPETITION IN 2019 - 2ND PLACE IN ALL ISLAND LEVEL</dd>
+									</li>
+
+									<li>SPORTS
+										<dd>CAPTAIN OF SCHOOL UNDER 15 CRICKET TEAM</dd>
+										<br><dd>WINNER UP IN JOHOR INTERNATIONAL T20 UNDER 19 IN 2019 (AT BOI CRICKET STADIUM)</dd>
+									</li>
 								</ul>
 							</font>
 						</td>
@@ -2273,7 +2360,7 @@
                 <font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
                     <h2>
                         <font style="text-shadow: 1px 1px 10px black; color:burlywood">
-                            14 - SULAKSHAN
+                            14 - SULAKSHAN (CHOCOLATE BISCUIT CLIPS)
                         </font>
                     </h2>
 				</font>
@@ -2313,6 +2400,16 @@
 									
 						<li>STUDYED
 							<dd>WIJAYARATNAM H.C.C</dd>
+						</li>
+
+						<li>SPECIAL
+							<dd>SINGLE MUSIC COMPETITION IN 2019 - 2ND PLACE IN WESTERN PROVINCE LEVEL</dd>
+							<br><dd>GROUP MUSIC COMPETITION IN 2019 - 2ND PLACE IN ALL ISLAND LEVEL</dd>
+						</li>
+
+						<li>SPORTS
+							<dd>CAPTAIN OF SCHOOL UNDER 15 CRICKET TEAM</dd>
+							<br><dd>WINNER UP IN JOHOR INTERNATIONAL T20 UNDER 19 IN 2019 (AT BOI CRICKET STADIUM)</dd>
 						</li>
 					</ul>
 				</font>

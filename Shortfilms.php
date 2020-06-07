@@ -120,7 +120,6 @@
 				<p>
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						18 MIN 35 SEC | CASUAL | PRACTISE
-						<br>RATE : ___&emsp;&nbsp;MAX.POINT : ___&emsp;&nbsp;MIN.POINTS : ___
 					</font></small>
 
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
@@ -159,7 +158,6 @@
 				<p>
 					<small><font  class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						18 MIN 35 SEC | CASUAL | PRACTISE
-						<br>RATE : ___<br>MAX.POINT : ___<br>MIN.POINTS : ___
 					</font></small>
 
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
@@ -198,7 +196,6 @@
 				<p>
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
-						<br>RATE : ___&emsp;&nbsp;MAX.POINT : ___&emsp;&nbsp;MIN.POINTS : ___
 					</font></small>
 
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
@@ -232,7 +229,6 @@
 				<p>
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
-						<br>RATE : ___<br>MAX.POINT : ___<br>MIN.POINTS : ___
 					</font></small>
 
 					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
@@ -247,6 +243,136 @@
 						<a href="Members.php#G2" class="aLink">GOWSALJAN</a>
 						
 						<br><br><a href="PURIYAA_IRUL.php" class="aLink"><button><b><i><font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+					</font>
+				</p>
+			</td>
+		</tr>
+	</table>
+
+	<br>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM2">
+		<tr>
+			<td>
+				<img src="Images/CV1-01.jpg" alt="Corona Vathaigal 1" width="350" height="200" style="box-shadow: 6px 2px 8px #000000" id="PY">
+			</td>
+				
+			<td align="center">
+				<h2><font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >03 - CORONA VATHAIGAL 1 (2020)</font></h2>
+				
+				<p>
+					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						04 MIN 30 SEC | COMEDY
+					</font></small>
+
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+						<br><br>It's a short film producing by CHOCOLATE BISCUIT CLIPS. This was made for fun to get a &nbsp; &nbsp;<br>cool mode.
+						
+						<br><br>Director : 
+						<a href="Members.php#SL" class="aLink">SULAKSHAN</a>
+						<br>Stars : 
+						<a href="Members.php#SL" class="aLink">SULAKSHAN</a> ,
+						<a href="#" class="aLink">LIVINTON</a> ,
+						<a href="#" class="aLink">VITHUSHAN</a>
+						
+						<br><br><a href="CV1.php" class="aLink"><button><b><i><font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+					</font>
+				</p>
+			</td>
+		</tr>
+	</table>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM02">
+		<tr>
+			<td align="center">
+				<h2><font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >03 - CORONA VATHAIGAL 1 (2020)</font></h2>
+				
+				<img src="Images/CV1-01.jpg" alt="Corona Vathaigal 1" width="200" height="100" style="box-shadow: 6px 2px 8px #000000" id="PY">
+			</td>
+		</tr>
+		
+		<tr>		
+			<td align="center">
+				<p>
+					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						04 MIN 30 SEC | COMEDY
+					</font></small>
+
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+						<br><br>It's a short film producing by CHOCOLATE BISCUIT CLIPS. This was made for fun to get a cool mode.
+						
+						<br><br>Director : 
+						<a href="Members.php#SL" class="aLink">SULAKSHAN</a>
+						<br>Stars : 
+						<a href="Members.php#SL" class="aLink">SULAKSHAN</a> ,
+						<a href="#" class="aLink">LIVINTON</a>
+						<a href="#" class="aLink">VITHUSHAN</a>
+						
+						<br><br><a href="CV1.php" class="aLink"><button><b><i><font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+					</font>
+				</p>
+			</td>
+		</tr>
+	</table>
+
+	<br>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM2">
+		<tr>
+			<td>
+				<img src="Images/CV.jpg" alt="Corona Vathaigal 2" width="350" height="200" style="box-shadow: 6px 2px 8px #000000" id="PY">
+			</td>
+				
+			<td align="center">
+				<h2><font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >04 - CORONA VATHAIGAL 2 (2020)</font></h2>
+				
+				<p>
+					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						09 MIN 11 SEC | COMEDY
+					</font></small>
+
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+						<br><br>It's a short film producing by M CREATIONS. This was CORONA VATHAIGAL shortfilm's &emsp; <br>second part.
+						
+						<br><br>Director : 
+						<a href="Members.php#SL" class="aLink">SULAKSHAN</a>
+						<br>Stars : 
+						<a href="Members.php#SL" class="aLink">SULAKSHAN</a> ,
+						<a href="#" class="aLink">LIVINTON</a> ,
+						<a href="#" class="aLink">DHANUSH</a> ,
+						<a href="#" class="aLink">ABI</a>
+						
+						<br><br><a href="CV2.php" class="aLink"><button><b><i><font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
+					</font>
+				</p>
+			</td>
+		</tr>
+	</table>
+	<table align="center" border="0" style="box-shadow: 4px 2px 12px #000000; background-color: rgba(0, 0, 0, 0.5);" cellspacing="30px" id="SHORTFILM02">
+		<tr>
+			<td align="center">
+				<h2><font class="Adopecaslonpro" style="text-shadow: 1px 1px 10px black; color:burlywood" size="+3" >04 - CORONA VATHAIGAL 2 (2020)</font></h2>
+				
+				<img src="Images/CV.jpg" alt="Corona Vathaigal 2" width="350" height="200" style="box-shadow: 6px 2px 8px #000000" id="PY">
+			</td>
+		</tr>
+		
+		<tr>		
+			<td align="center">
+				<p>
+					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood">
+						09 MIN 11 SEC | COMEDY
+					</font></small>
+
+					<font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 12px burlywood" size="+1">
+						<br><br>It's a short film producing by M CREATIONS. This was CORONA VATHAIGAL shortfilm's second part.
+						
+						<br><br>Director : 
+						<a href="Members.php#SL" class="aLink">SULAKSHAN</a>
+						<br>Stars : 
+						<a href="Members.php#SL" class="aLink">SULAKSHAN</a> ,
+						<a href="#" class="aLink">LIVINTON</a> ,
+						<a href="#" class="aLink">DHANUSH</a> ,
+						<a href="#" class="aLink">ABI</a>
+						
+						<br><br><a href="CV2.php" class="aLink"><button><b><i><font color="gold" style="text-shadow: 1px 1px 5px brown" size="+1">Read More</font></i></b></button></a>
 					</font>
 				</p>
 			</td>

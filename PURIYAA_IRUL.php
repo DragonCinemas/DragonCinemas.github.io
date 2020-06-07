@@ -115,8 +115,6 @@
 
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
-						<br>RATE : ___&emsp;&ensp;MAX.POINTS : ___&emsp;&ensp;MIN.POINTS : ___
-
 					</font></small>
 
 					<br><br><br>
@@ -130,7 +128,7 @@
 						Brain Level &amp; Also He Can Know How He Watching Every Movies <br>By His Own-Self. The Bgms Are Turning The Level Of This
 						To A Upper Level.
 
-						<br><br>OFFICIAL TEASER : 
+						<br><br>OFFICIAL TEASER :
 						<a href="http://youtu.be/qtmS7BlAO8U" class="aLink">http://youtu.be/qtmS7BlAO8U</a>
 						<br>FULL SHORT FILM : 
 						<a href="https://www.youtube.com/watch?v=OW4KGWADzPk" class="aLink">https://www.youtube.com/watch?v=OW4KGWADzPk</a>
@@ -178,8 +176,6 @@
 
 					<small><font class="Adopecaslonpro" color="#FFFFFF" style="text-shadow: 1px 1px 5px black">
 						05 MIN 26 SEC | CASUAL | VIEWERS' BRAIN TESTER
-						<br>RATE : ___ MAX.POINTS : ___ MIN.POINTS : ___
-
 					</font></small>
 
 					<br><br><br>
@@ -193,8 +189,8 @@
 						Brain Level &amp; Also He Can Know How He Watching Every Movies By His Own-Self. The Bgms Are Turning The Level Of This
 						To A Upper Level.
 
-						<br><br>OFFICIAL Teaser : 
-						<a href="http://youtu.be/qtmS7BlAO8U" class="aLink">http://youtu.be/qtmS7BlAO8U</a>
+						<br><br>OFFICIAL TEASER : 
+						<br><a href="http://youtu.be/qtmS7BlAO8U" class="aLink">http://youtu.be/qtmS7BlAO8U</a>
 						<br><br>FULL SHORT FILM : 
 						<a href="https://www.youtube.com/watch?v=OW4KGWADzPk" class="aLink">https://www.youtube.com/watch?v=OW4KGWADzPk</a>
 						
